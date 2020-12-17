@@ -1,5 +1,7 @@
 2013-2015 Baseball playoff appearances vs. Concession prices
 
+Copied from original repo: https://github.com/eerofeeva/return_of_the_Baseball_Madness which has the commit history attached.
+
 List of code files:
 _CODE/database.ini - contains SQL queries to run against PostGres Server
 _CODE/config.py - contains method for connecting to DB and running SQL queries against it
