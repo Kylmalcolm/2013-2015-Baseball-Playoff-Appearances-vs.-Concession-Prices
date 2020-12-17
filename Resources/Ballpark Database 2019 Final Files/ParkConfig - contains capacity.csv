@@ -1,0 +1,2704 @@
+parkID,Name,Year,Capacity
+LON01,Olympic Stadium,2019,60000
+OMA01,TD Ameritrade Park,2019,24000
+SJU01,Estadio Hiram Bithorn,2019,19000
+MNT01,Estadio Monterrey,2019,27000
+ANA01,Angel Stadium of Anaheim,2019,45505
+ARL02,Globe Life Park,2019,49115
+ATL03,SunTrust Park,2019,41149
+BAL12,Oriole Park at Camden Yards,2019,45971
+BOS07,Fenway Park,2019,37731
+CHI11,Wrigley Field,2019,41649
+CHI12,Guarantee Rate Park,2019,40615
+CIN09,Great American Ballpark,2019,42319
+CLE08,Progressive Field,2019,35225
+DEN02,Coors Field,2019,50398
+DET05,Comerica Park,2019,41297
+HOU03,Minute Maid Park,2019,41168
+KAN06,Kauffman Stadium,2019,37903
+LOS03,Dodger Stadium,2019,54500
+MIA02,Marlins Park,2019,36742
+MIL06,Miller Park,2019,41900
+MIN04,Target Field,2019,38649
+NYC20,Citi Field,2019,41922
+NYC21,New Yankee Stadium,2019,47309
+OAK01,RingCentral Coliseum,2019,46785
+PHI13,Citizens Bank Park,2019,43674
+PHO01,Chase Field,2019,48519
+PIT08,PNC Park,2019,38362
+SAN02,Petco Park,2019,42445
+SEA03,T-Mobile Park,2019,47943
+SFO03,Oracle Park,2019,41915
+STL10,Busch Stadium III,2019,45538
+STP01,Tropicana Field,2019,25025
+TOR02,Rogers Centre,2019,53506
+WAS11,Nationals Park,2019,41922
+SJU01,Estadio Hiram Bithorn,2018,19000
+MNT01,Estadio Monterrey,2018,27000
+ANA01,Angel Stadium of Anaheim,2018,45505
+ARL02,Globe Life Park,2018,48114
+ATL03,SunTrust Park,2018,41149
+BAL12,Oriole Park at Camden Yards,2018,45971
+BOS07,Fenway Park,2018,37949
+CHI11,Wrigley Field,2018,41072
+CHI12,Guarantee Rate Park,2018,40615
+CIN09,Great American Ballpark,2018,42319
+CLE08,Progressive Field,2018,38000
+DEN02,Coors Field,2018,50398
+DET05,Comerica Park,2018,41681
+HOU03,Minute Maid Park,2018,42060
+KAN06,Kauffman Stadium,2018,37903
+LOS03,Dodger Stadium,2018,54500
+MIA02,Marlins Park,2018,41418
+MIL06,Miller Park,2018,41900
+MIN04,Target Field,2018,39021
+NYC20,Citi Field,2018,41922
+NYC21,New Yankee Stadium,2018,49642
+OAK01,Oakland Coliseum,2018,47170
+PHI13,Citizens Bank Park,2018,43651
+PHO01,Chase Field,2018,48633
+PIT08,PNC Park,2018,38362
+SAN02,Petco Park,2018,40209
+SEA03,Safeco Field,2018,47476
+SFO03,AT&T Park,2018,41915
+STL10,Busch Stadium III,2018,43975
+STP01,Tropicana Field,2018,31042
+TOR02,Rogers Centre,2018,49282
+WAS11,Nationals Park,2018,41418
+WIL02,Bowman Field,2018,2366
+ANA01,Angel Stadium of Anaheim,2017,45505
+ARL02,Globe Life Park,2017,48114
+ATL03,SunTrust Park,2017,41149
+BAL12,Oriole Park at Camden Yards,2017,45971
+BOS07,Fenway Park,2017,37949
+CHI11,Wrigley Field,2017,41072
+CHI12,Guarantee Rate Park,2017,40615
+CIN09,Great American Ballpark,2017,42319
+CLE08,Progressive Field,2017,38000
+DEN02,Coors Field,2017,50398
+DET05,Comerica Park,2017,41681
+HOU03,Minute Maid Park,2017,42060
+KAN06,Kauffman Stadium,2017,37903
+LOS03,Dodger Stadium,2017,54500
+MIA02,Marlins Park,2017,41418
+MIL06,Miller Park,2017,41900
+MIN04,Target Field,2017,39021
+NYC20,Citi Field,2017,41922
+NYC21,New Yankee Stadium,2017,49642
+OAK01,Oakland Coliseum,2017,47170
+PHI13,Citizens Bank Park,2017,43651
+PHO01,Chase Field,2017,48633
+PIT08,PNC Park,2017,38362
+SAN02,Petco Park,2017,40209
+SEA03,Safeco Field,2017,47476
+SFO03,AT&T Park,2017,41915
+STL10,Busch Stadium III,2017,43975
+STP01,Tropicana Field,2017,31042
+TOR02,Rogers Centre,2017,49282
+WAS11,Nationals Park,2017,41418
+WIL02,Bowman Field,2017,2366
+ANA01,Angel Stadium of Anaheim,2016,45505
+ARL02,Globe Life Park,2016,48114
+ATL02,Turner Field,2016,49586
+BAL12,Oriole Park at Camden Yards,2016,45971
+BOS07,Fenway Park,2016,37949
+CHI11,Wrigley Field,2016,41268
+CHI12,Guarantee Rate Field,2016,40615
+CIN09,Great American Ballpark,2016,42319
+CLE08,Progressive Field,2016,37675
+DEN02,Coors Field,2016,50398
+DET05,Comerica Park,2016,41297
+FTB01,Fort Bragg Field,2016,12500
+HOU03,Minute Maid Park,2016,41676
+KAN06,Kauffman Stadium,2016,37903
+LOS03,Dodger Stadium,2016,54500
+MIA02,Marlins Park,2016,37442
+MIL06,Miller Park,2016,41900
+MIN04,Target Field,2016,38871
+NYC20,Citi Field,2016,41922
+NYC21,New Yankee Stadium,2016,49469
+OAK01,Oakland Coliseum,2016,35067
+PHI13,Citizens Bank Park,2016,43651
+PHO01,Chase Field,2016,48633
+PIT08,PNC Park,2016,38362
+SAN02,Petco Park,2016,40162
+SEA03,Safeco Field,2016,47943
+SFO03,AT&T Park,2016,41915
+STL10,Busch Stadium III,2016,45538
+STP01,Tropicana Field,2016,31042
+TOR02,Rogers Centre,2016,49282
+WAS11,Nationals Park,2016,41313
+ANA01,Angel Stadium of Anaheim,2015,45505
+ARL02,Globe Life Park,2015,48114
+ATL02,Turner Field,2015,49586
+BAL12,Oriole Park at Camden Yards,2015,45971
+BOS07,Fenway Park,2015,37499
+CHI11,Wrigley Field,2015,41072
+CHI12,U.S. Cellular Field,2015,40615
+CIN09,Great American Ballpark,2015,42319
+CLE08,Progressive Field,2015,42487
+DEN02,Coors Field,2015,50398
+DET05,Comerica Park,2015,41681
+HOU03,Minute Maid Park,2015,42060
+KAN06,Kauffman Stadium,2015,37903
+LOS03,Dodger Stadium,2015,54500
+MIA02,Marlins Park,2015,37442
+MIL06,Miller Park,2015,41900
+MIN04,Target Field,2015,39021
+NYC20,Citi Field,2015,41922
+NYC21,New Yankee Stadium,2015,49642
+OAK01,Oakland-Alameda County Coliseum,2015,35067
+PHI13,Citizens Bank Park,2015,43651
+PHO01,Chase Field,2015,48633
+PIT08,PNC Park,2015,38362
+SAN02,Petco Park,2015,41164
+SEA03,Safeco Field,2015,47476
+SFO03,AT&T Park,2015,41915
+STL10,Busch Stadium III,2015,45399
+STP01,Tropicana Field,2015,31042
+TOR02,Rogers Centre,2015,49282
+WAS11,Nationals Park,2015,41222
+ANA01,Angel Stadium of Anaheim,2014,45505
+ARL02,Globe Life Park,2014,48114
+ATL02,Turner Field,2014,49586
+BAL12,Oriole Park at Camden Yards,2014,45971
+BOS07,Fenway Park,2014,37499
+CHI11,Wrigley Field,2014,41072
+CHI12,U.S. Cellular Field,2014,40615
+CIN09,Great American Ballpark,2014,42319
+CLE08,Progressive Field,2014,42487
+DEN02,Coors Field,2014,50480
+DET05,Comerica Park,2014,41681
+HOU03,Minute Maid Park,2014,42060
+KAN06,Kauffman Stadium,2014,37903
+LOS03,Dodger Stadium,2014,56000
+MIA02,Marlins Park,2014,37442
+MIL06,Miller Park,2014,41900
+MIN04,Target Field,2014,39021
+NYC20,Citi Field,2014,41922
+NYC21,New Yankee Stadium,2014,49642
+OAK01,Oakland-Alameda County Coliseum,2014,35067
+PHI13,Citizens Bank Park,2014,43651
+PHO01,Chase Field,2014,48633
+PIT08,PNC Park,2014,38362
+SAN02,Petco Park,2014,42302
+SEA03,Safeco Field,2014,47476
+SFO03,AT&T Park,2014,41915
+STL10,Busch Stadium III,2014,45399
+STP01,Tropicana Field,2014,31042
+SYD01,Sydney Cricket Ground,2014,47000
+TOR02,Rogers Centre,2014,49282
+WAS11,Nationals Park,2014,41222
+ANA01,Angel Stadium of Anaheim,2013,45505
+ARL02,Rangers Ballpark in Arlington,2013,48114
+ATL02,Turner Field,2013,49586
+BAL12,Oriole Park at Camden Yards,2013,45971
+BOS07,Fenway Park,2013,37499
+CHI11,Wrigley Field,2013,41009
+CHI12,U.S. Cellular Field,2013,40615
+CIN09,Great American Ballpark,2013,42319
+CLE08,Progressive Field,2013,42241
+DEN02,Coors Field,2013,50398
+DET05,Comerica Park,2013,41258
+HOU03,Minute Maid Park,2013,42060
+KAN06,Kauffman Stadium,2013,37903
+LOS03,Dodger Stadium,2013,56000
+MIA02,Marlins Park,2013,37442
+MIL06,Miller Park,2013,41900
+MIN04,Target Field,2013,39021
+NYC20,Citi Field,2013,41922
+NYC21,New Yankee Stadium,2013,50291
+OAK01,Oakland-Alameda County Coliseum,2013,35067
+PHI13,Citizens Bank Park,2013,43651
+PHO01,Chase Field,2013,48633
+PIT08,PNC Park,2013,38362
+SAN02,Petco Park,2013,42524
+SEA03,Safeco Field,2013,47476
+SFO03,AT&T Park,2013,41915
+STL10,Busch Stadium III,2013,43975
+STP01,Tropicana Field,2013,34078
+TOR02,Rogers Centre,2013,49282
+WAS11,Nationals Park,2013,41222
+ANA01,Angel Stadium of Anaheim,2012,45505
+ARL02,Rangers Ballpark in Arlington,2012,48194
+ATL02,Turner Field,2012,49586
+BAL12,Oriole Park at Camden Yards,2012,45971
+BOS07,Fenway Park,2012,37495
+CHI11,Wrigley Field,2012,41009
+CHI12,U.S. Cellular Field,2012,40615
+CIN09,Great American Ballpark,2012,42319
+CLE08,Progressive Field,2012,43429
+DEN02,Coors Field,2012,50398
+DET05,Comerica Park,2012,41258
+HOU03,Minute Maid Park,2012,40981
+KAN06,Kauffman Stadium,2012,37903
+LOS03,Dodger Stadium,2012,56000
+MIA02,Marlins Park,2012,37442
+MIL06,Miller Park,2012,41900
+MIN04,Target Field,2012,39500
+NYC20,Citi Field,2012,41922
+NYC21,New Yankee Stadium,2012,50291
+OAK01,Oakland-Alameda County Coliseum,2012,35067
+PHI13,Citizens Bank Park,2012,43651
+PHO01,Chase Field,2012,48633
+PIT08,PNC Park,2012,38362
+SAN02,Petco Park,2012,42691
+SEA03,Safeco Field,2012,47860
+SFO03,AT&T Park,2012,41915
+STL10,Busch Stadium III,2012,43975
+STP01,Tropicana Field,2012,34078
+TOR02,Rogers Centre,2012,49260
+WAS11,Nationals Park,2012,41222
+ANA01,Angel Stadium of Anaheim,2011,45285
+ARL02,Rangers Ballpark in Arlington,2011,48911
+ATL02,Turner Field,2011,49743
+BAL12,Oriole Park at Camden Yards,2011,48290
+BOS07,Fenway Park,2011,37402
+CHI11,Wrigley Field,2011,41210
+CHI12,U.S. Cellular Field,2011,40615
+CIN09,Great American Ballpark,2011,42319
+CLE08,Progressive Field,2011,43415
+DEN02,Coors Field,2011,50449
+DET05,Comerica Park,2011,41255
+HOU03,Minute Maid Park,2011,40976
+KAN06,Kauffman Stadium,2011,37840
+LOS03,Dodger Stadium,2011,56000
+MIA01,Sun Life Stadium,2011,42531
+MIL06,Miller Park,2011,41900
+MIN04,Target Field,2011,39500
+NYC20,Citi Field,2011,41800
+NYC21,New Yankee Stadium,2011,50287
+OAK01,O.CO Coliseum,2011,35067
+PHI13,Citizens Bank Park,2011,43651
+PHO01,Chase Field,2011,48633
+PIT08,PNC Park,2011,38496
+SAN02,Petco Park,2011,42691
+SEA03,Safeco Field,2011,47447
+SFO03,AT&T Park,2011,41915
+STL10,Busch Stadium III,2011,43975
+STP01,Tropicana Field,2011,36973
+TOR02,Rogers Centre,2011,50598
+WAS11,Nationals Park,2011,41222
+ANA01,Angel Stadium of Anaheim,2010,45285
+ARL02,Ameriquest Field In Arlington,2010,48911
+ATL02,Turner Field,2010,49743
+BAL12,Oriole Park at Camden Yards,2010,48290
+BOS07,Fenway Park,2010,37402
+CHI11,Wrigley Field,2010,41210
+CHI12,U.S. Cellular Field,2010,40615
+CIN09,Great American Ballpark,2010,42319
+CLE08,Progressive Field,2010,43415
+DEN02,Coors Field,2010,50449
+DET05,Comerica Park,2010,41255
+HOU03,Minute Maid Park,2010,40976
+KAN06,Kauffman Stadium,2010,37840
+LOS03,Dodger Stadium,2010,56000
+MIA01,Sun Life Stadium,2010,42531
+MIL06,Miller Park,2010,41900
+MIN04,Target Field,2010,39500
+NYC20,Citi Field,2010,41800
+NYC21,New Yankee Stadium,2010,50287
+OAK01,Oakland-Alameda County Coliseum,2010,35067
+PHI13,Citizens Bank Park,2010,43651
+PHO01,Chase Field,2010,48633
+PIT08,PNC Park,2010,38496
+SAN02,Petco Park,2010,42691
+SEA03,Safeco Field,2010,47447
+SFO03,AT&T Park,2010,41915
+SJU01,Estadio Hiram Bithorn,2010,18000
+STL10,Busch Stadium III,2010,43975
+STP01,Tropicana Field,2010,36973
+TOR02,Rogers Centre,2010,50598
+WAS11,Nationals Park,2010,41222
+ANA01,Angel Stadium of Anaheim,2009,45037
+ARL02,Ameriquest Field In Arlington,2009,48911
+ATL02,Turner Field,2009,50091
+BAL12,Oriole Park at Camden Yards,2009,48290
+BOS07,Fenway Park,2009,36658
+CHI11,Wrigley Field,2009,41118
+CHI12,U.S. Cellular Field,2009,40615
+CIN09,Great American Ballpark,2009,42271
+CLE08,Progressive Field,2009,43415
+DEN02,Coors Field,2009,50449
+DET05,Comerica Park,2009,41255
+HOU03,Minute Maid Park,2009,40976
+KAN06,Kauffman Stadium,2009,40785
+LOS03,Dodger Stadium,2009,56000
+MIA01,Land Shark Stadium,2009,42531
+MIL06,Miller Park,2009,41900
+MIN03,Hubert H. Humphrey Metrodome,2009,46564
+NYC20,Citi Field,2009,41800
+NYC21,New Yankee Stadium,2009,50287
+OAK01,Oakland-Alameda County Coliseum,2009,34007
+PHI13,Citizens Bank Park,2009,43647
+PHO01,Chase Field,2009,49033
+PIT08,PNC Park,2009,38496
+SAN02,Petco Park,2009,42445
+SEA03,Safeco Field,2009,47447
+SFO03,AT&T Park,2009,41606
+STL10,Busch Stadium III,2009,43975
+STP01,Tropicana Field,2009,41315
+TOR02,Rogers Centre,2009,50598
+WAS11,Nationals Park,2009,41222
+ANA01,Angel Stadium of Anaheim,2008,45037
+ARL02,Ameriquest Field In Arlington,2008,48911
+ATL02,Turner Field,2008,50091
+BAL12,Oriole Park at Camden Yards,2008,48290
+BOS07,Fenway Park,2008,36108
+CHI11,Wrigley Field,2008,41118
+CHI12,U.S. Cellular Field,2008,40615
+CIN09,Great American Ballpark,2008,42271
+CLE08,Progressive Field,2008,43415
+DEN02,Coors Field,2008,50449
+DET05,Comerica Park,2008,41255
+HOU03,Minute Maid Park,2008,40976
+KAN06,Kauffman Stadium,2008,40785
+LBV01,Champion Stadium,2008,9500
+LOS03,Dodger Stadium,2008,56000
+MIA01,Dolphin Stadium,2008,42531
+MIL06,Miller Park,2008,41900
+MIN03,Hubert H. Humphrey Metrodome,2008,46564
+NYC16,Yankee Stadium I,2008,57545
+NYC17,Shea Stadium,2008,55777
+OAK01,McAfee Coliseum,2008,34007
+PHI13,Citizens Bank Park,2008,43647
+PHO01,Chase Field,2008,49033
+PIT08,PNC Park,2008,38496
+SAN02,Petco Park,2008,42445
+SEA03,Safeco Field,2008,47447
+SFO03,AT&T Park,2008,41606
+STL10,Busch Stadium III,2008,43975
+STP01,Tropicana Field,2008,41315
+TOK01,Tokyo Dome,2008,55000
+TOR02,Rogers Centre,2008,50598
+WAS11,Nationals Park,2008,41222
+ANA01,Angel Stadium of Anaheim,2007,45037
+ARL02,Ameriquest Field In Arlington,2007,48911
+ATL02,Turner Field,2007,50091
+BAL12,Oriole Park at Camden Yards,2007,48290
+BOS07,Fenway Park,2007,36108
+CHI11,Wrigley Field,2007,41118
+CHI12,U.S. Cellular Field,2007,40615
+CIN09,Great American Ballpark,2007,42271
+CLE08,Jacobs Field,2007,43415
+DEN02,Coors Field,2007,50449
+DET05,Comerica Park,2007,41255
+HOU03,Minute Maid Park,2007,40976
+KAN06,Kauffman Stadium,2007,40785
+LBV01,Champion Stadium,2007,9500
+LOS03,Dodger Stadium,2007,56000
+MIA01,Dolphin Stadium,2007,42531
+MIL06,Miller Park,2007,41900
+MIN03,Hubert H. Humphrey Metrodome,2007,46564
+NYC16,Yankee Stadium I,2007,57545
+NYC17,Shea Stadium,2007,55777
+OAK01,McAfee Coliseum,2007,34007
+PHI13,Citizens Bank Park,2007,43647
+PHO01,Chase Field,2007,49033
+PIT08,PNC Park,2007,38496
+SAN02,Petco Park,2007,42445
+SEA03,Safeco Field,2007,47447
+SFO03,AT&T Park,2007,41606
+STL10,Busch Stadium III,2007,43975
+STP01,Tropicana Field,2007,41315
+TOR02,Rogers Centre,2007,50598
+WAS10,Robert F. Kennedy Stadium,2007,46500
+ANA01,Angel Stadium of Anaheim,2006,45037
+ARL02,Ameriquest Field In Arlington,2006,48911
+ATL02,Turner Field,2006,50091
+BAL12,Oriole Park at Camden Yards,2006,48290
+BOS07,Fenway Park,2006,36108
+CHI11,Wrigley Field,2006,41118
+CHI12,U.S. Cellular Field,2006,40615
+CIN09,Great American Ballpark,2006,42271
+CLE08,Jacobs Field,2006,43415
+DEN02,Coors Field,2006,50449
+DET05,Comerica Park,2006,41255
+HOU03,Minute Maid Park,2006,40976
+KAN06,Kauffman Stadium,2006,40785
+LOS03,Dodger Stadium,2006,56000
+MIA01,Dolphin Stadium,2006,42531
+MIL06,Miller Park,2006,41900
+MIN03,Hubert H. Humphrey Metrodome,2006,46564
+NYC16,Yankee Stadium I,2006,57545
+NYC17,Shea Stadium,2006,55777
+OAK01,McAfee Coliseum,2006,34007
+PHI13,Citizens Bank Park,2006,43647
+PHO01,Chase Field,2006,49033
+PIT08,PNC Park,2006,38496
+SAN02,Petco Park,2006,42445
+SEA03,Safeco Field,2006,47447
+SFO03,AT&T Park,2006,41606
+STL10,Busch Stadium III,2006,40713
+STP01,Tropicana Field,2006,41315
+TOR02,Rogers Centre,2006,50598
+WAS10,Robert F. Kennedy Stadium,2006,46500
+ANA01,Angel Stadium of Anaheim,2005,45037
+ARL02,Ameriquest Field In Arlington,2005,49115
+ATL02,Turner Field,2005,50091
+BAL12,Oriole Park at Camden Yards,2005,48290
+BOS07,Fenway Park,2005,35095
+CHI11,Wrigley Field,2005,39538
+CHI12,U.S. Cellular Field,2005,40615
+CIN09,Great American Ballpark,2005,42271
+CLE08,Jacobs Field,2005,43405
+DEN02,Coors Field,2005,50449
+DET05,Comerica Park,2005,41255
+HOU03,Minute Maid Park,2005,40950
+KAN06,Kauffman Stadium,2005,40785
+LOS03,Dodger Stadium,2005,56000
+MIA01,Dolphin Stadium,2005,42531
+MIL06,Miller Park,2005,41900
+MIN03,Hubert H. Humphrey Metrodome,2005,46564
+NYC16,Yankee Stadium I,2005,57545
+NYC17,Shea Stadium,2005,55777
+OAK01,McAfee Coliseum,2005,43662
+PHI13,Citizens Bank Park,2005,43826
+PHO01,Bank One Ballpark,2005,49033
+PIT08,PNC Park,2005,38496
+SAN02,Petco Park,2005,42445
+SEA03,Safeco Field,2005,47447
+SFO03,SBC Park,2005,41584
+STL09,Busch Stadium II,2005,49738
+STP01,Tropicana Field,2005,41315
+TOR02,Rogers Centre,2005,50598
+WAS10,Robert F. Kennedy Stadium,2005,46500
+ANA01,Angel Stadium of Anaheim,2004,45054
+ARL02,Ameriquest Field In Arlington,2004,49115
+ATL02,Turner Field,2004,50091
+BAL12,Oriole Park at Camden Yards,2004,48190
+BOS07,Fenway Park,2004,36298
+CHI11,Wrigley Field,2004,39241
+CHI12,U.S. Cellular Field,2004,41000
+CIN09,Great American Ballpark,2004,42053
+CLE08,Jacobs Field,2004,43389
+DEN02,Coors Field,2004,50449
+DET05,Comerica Park,2004,40120
+HOU03,Minute Maid Park,2004,40950
+KAN06,Kauffman Stadium,2004,40793
+LOS03,Dodger Stadium,2004,56000
+MIA01,Pro Player Stadium,2004,42531
+MIL06,Miller Park,2004,41900
+MIN03,Hubert H. Humphrey Metrodome,2004,48678
+MON02,Stade Olympique,2004,46500
+NYC16,Yankee Stadium I,2004,57545
+NYC17,Shea Stadium,2004,55777
+OAK01,Network Associates Coliseum,2004,43662
+PHI13,Citizens Bank Park,2004,43500
+PHO01,Bank One Ballpark,2004,49033
+PIT08,PNC Park,2004,38496
+SAN02,Petco Park,2004,46000
+SEA03,Safeco Field,2004,47772
+SFO03,SBC Park,2004,41503
+SJU01,Estadio Hiram Bithorn,2004,18000
+STL09,Busch Stadium II,2004,49738
+STP01,Tropicana Field,2004,43772
+TOK01,Tokyo Dome,2004,55000
+TOR02,SkyDome,2004,50516
+ANA01,Edison International Field of Anaheim,2003,45054
+ARL02,The Ballpark in Arlington,2003,49115
+ATL02,Turner Field,2003,50091
+BAL12,Oriole Park at Camden Yards,2003,48190
+BOS07,Fenway Park,2003,33993
+CHI11,Wrigley Field,2003,39241
+CHI12,U.S. Cellular Field,2003,47098
+CIN09,Great American Ballpark,2003,42053
+CLE08,Jacobs Field,2003,43389
+DEN02,Coors Field,2003,50449
+DET05,Comerica Park,2003,40120
+HOU03,Minute Maid Park,2003,40950
+KAN06,Kauffman Stadium,2003,40793
+LOS03,Dodger Stadium,2003,56000
+MIA01,Pro Player Stadium,2003,42531
+MIL06,Miller Park,2003,41900
+MIN03,Hubert H. Humphrey Metrodome,2003,48678
+MON02,Stade Olympique,2003,46500
+NYC16,Yankee Stadium I,2003,57545
+NYC17,Shea Stadium,2003,55777
+OAK01,Network Associates Coliseum,2003,43662
+PHI12,Veterans Stadium,2003,62409
+PHO01,Bank One Ballpark,2003,49033
+PIT08,PNC Park,2003,38365
+SAN01,Qualcomm Stadium,2003,66307
+SEA03,Safeco Field,2003,47772
+SFO03,Pac Bell Park,2003,41503
+SJU01,Estadio Hiram Bithorn,2003,18000
+STL09,Busch Stadium II,2003,49738
+STP01,Tropicana Field,2003,43772
+TOR02,SkyDome,2003,50516
+ANA01,Edison International Field of Anaheim,2002,45054
+ARL02,The Ballpark in Arlington,2002,49166
+ATL02,Turner Field,2002,50091
+BAL12,Oriole Park at Camden Yards,2002,48079
+BOS07,Fenway Park,2002,33993
+CHI11,Wrigley Field,2002,39600
+CHI12,Comiskey Park II,2002,45936
+CIN08,Cinergy Field,2002,39000
+CLE08,Jacobs Field,2002,43863
+DEN02,Coors Field,2002,50200
+DET05,Comerica Park,2002,40120
+HOU03,Astros Field,2002,40950
+KAN06,Kauffman Stadium,2002,40613
+LOS03,Dodger Stadium,2002,56000
+MIA01,Pro Player Stadium,2002,42531
+MIL06,Miller Park,2002,42885
+MIN03,Hubert H. Humphrey Metrodome,2002,48678
+MON02,Stade Olympique,2002,46500
+NYC16,Yankee Stadium I,2002,57545
+NYC17,Shea Stadium,2002,55777
+OAK01,Network Associates Coliseum,2002,43662
+PHI12,Veterans Stadium,2002,62409
+PHO01,Bank One Ballpark,2002,49033
+PIT08,PNC Park,2002,38365
+SAN01,Qualcomm Stadium,2002,66307
+SEA03,Safeco Field,2002,46621
+SFO03,Pac Bell Park,2002,40930
+STL09,Busch Stadium II,2002,49738
+STP01,Tropicana Field,2002,45000
+TOR02,SkyDome,2002,50516
+ANA01,Edison International Field of Anaheim,2001,45054
+ARL02,The Ballpark in Arlington,2001,49166
+ATL02,Turner Field,2001,50091
+BAL12,Oriole Park at Camden Yards,2001,48079
+BOS07,Fenway Park,2001,33993
+CHI11,Wrigley Field,2001,39600
+CHI12,Comiskey Park II,2001,45936
+CIN08,Cinergy Field,2001,39000
+CLE08,Jacobs Field,2001,43863
+DEN02,Coors Field,2001,50200
+DET05,Comerica Park,2001,40120
+HOU03,Enron Field,2001,40950
+KAN06,Kauffman Stadium,2001,40613
+LOS03,Dodger Stadium,2001,56000
+MIA01,Pro Player Stadium,2001,42531
+MIL06,Miller Park,2001,42885
+MIN03,Hubert H. Humphrey Metrodome,2001,48678
+MON02,Stade Olympique,2001,46500
+NYC16,Yankee Stadium I,2001,57545
+NYC17,Shea Stadium,2001,55777
+OAK01,Network Associates Coliseum,2001,43662
+PHI12,Veterans Stadium,2001,62409
+PHO01,Bank One Ballpark,2001,49033
+PIT08,PNC Park,2001,38365
+SAN01,Qualcomm Stadium,2001,56133
+SEA03,Safeco Field,2001,46621
+SFO03,Pac Bell Park,2001,40930
+SJU01,Estadio Hiram Bithorn,2001,18000
+STL09,Busch Stadium II,2001,49676
+STP01,Tropicana Field,2001,45000
+TOR02,SkyDome,2001,50516
+ANA01,Edison International Field of Anaheim,2000,45054
+ARL02,The Ballpark in Arlington,2000,49166
+ATL02,Turner Field,2000,49714
+BAL12,Oriole Park at Camden Yards,2000,48079
+BOS07,Fenway Park,2000,34218
+CHI11,Wrigley Field,2000,39600
+CHI12,Comiskey Park II,2000,44321
+CIN08,Cinergy Field,2000,52953
+CLE08,Jacobs Field,2000,43863
+DEN02,Coors Field,2000,50200
+DET05,Comerica Park,2000,40120
+HOU03,Enron Field,2000,40950
+KAN06,Kauffman Stadium,2000,40613
+LOS03,Dodger Stadium,2000,56000
+MIA01,Pro Player Stadium,2000,47662
+MIL05,County Stadium,2000,43340
+MIN03,Hubert H. Humphrey Metrodome,2000,48678
+MON02,Stade Olympique,2000,46500
+NYC16,Yankee Stadium I,2000,57545
+NYC17,Shea Stadium,2000,55775
+OAK01,Network Associates Coliseum,2000,42219
+PHI12,Veterans Stadium,2000,62382
+PHO01,Bank One Ballpark,2000,48700
+PIT07,Three Rivers Stadium,2000,47687
+SAN01,Qualcomm Stadium,2000,56133
+SEA03,Safeco Field,2000,46621
+SFO03,Pac Bell Park,2000,40930
+STL09,Busch Stadium II,2000,49779
+STP01,Tropicana Field,2000,45000
+TOK01,Tokyo Dome,2000,55000
+TOR02,SkyDome,2000,50516
+ANA01,Edison International Field of Anaheim,1999,45054
+ARL02,The Ballpark in Arlington,1999,49166
+ATL02,Turner Field,1999,49714
+BAL12,Oriole Park at Camden Yards,1999,48079
+BOS07,Fenway Park,1999,34218
+CHI11,Wrigley Field,1999,39600
+CHI12,Comiskey Park II,1999,44321
+CIN08,Cinergy Field,1999,52953
+CLE08,Jacobs Field,1999,43863
+DEN02,Coors Field,1999,50200
+DET04,Tiger Stadium,1999,46945
+HOU02,Astrodome,1999,54313
+KAN06,Kauffman Stadium,1999,40613
+LOS03,Dodger Stadium,1999,56000
+MIA01,Pro Player Stadium,1999,47662
+MIL05,County Stadium,1999,43340
+MIN03,Hubert H. Humphrey Metrodome,1999,48678
+MNT01,Estadio Monterrey,1999,27000
+MON02,Stade Olympique,1999,46500
+NYC16,Yankee Stadium I,1999,57545
+NYC17,Shea Stadium,1999,55775
+OAK01,Network Associates Coliseum,1999,42219
+PHI12,Veterans Stadium,1999,62382
+PHO01,Bank One Ballpark,1999,48700
+PIT07,Three Rivers Stadium,1999,47952
+SAN01,Qualcomm Stadium,1999,67544
+SEA02,Kingdome,1999,59438
+SEA03,Safeco Field,1999,46621
+SFO02,3Com Park at Candlestick Point,1999,57546
+STL09,Busch Stadium II,1999,49779
+STP01,Tropicana Field,1999,45000
+TOR02,SkyDome,1999,50516
+ANA01,Edison International Field of Anaheim,1998,45054
+ARL02,The Ballpark in Arlington,1998,49166
+ATL02,Turner Field,1998,49714
+BAL12,Oriole Park at Camden Yards,1998,48079
+BOS07,Fenway Park,1998,34218
+CHI11,Wrigley Field,1998,39600
+CHI12,Comiskey Park II,1998,44321
+CIN08,Cinergy Field,1998,52953
+CLE08,Jacobs Field,1998,43863
+DEN02,Coors Field,1998,50200
+DET04,Tiger Stadium,1998,52806
+HOU02,Astrodome,1998,54816
+KAN06,Kauffman Stadium,1998,40613
+LOS03,Dodger Stadium,1998,56000
+MIA01,Pro Player Stadium,1998,47662
+MIL05,County Stadium,1998,43340
+MIN03,Hubert H. Humphrey Metrodome,1998,48678
+MON02,Stade Olympique,1998,46500
+NYC16,Yankee Stadium I,1998,57545
+NYC17,Shea Stadium,1998,55775
+OAK01,Network Associates Coliseum,1998,42219
+PHI12,Veterans Stadium,1998,62382
+PHO01,Bank One Ballpark,1998,48700
+PIT07,Three Rivers Stadium,1998,47952
+SAN01,Qualcomm Stadium,1998,67544
+SEA02,Kingdome,1998,59438
+SFO02,3Com Park at Candlestick Point,1998,57546
+STL09,Busch Stadium II,1998,49779
+STP01,Tropicana Field,1998,45000
+TOR02,SkyDome,1998,50516
+ANA01,Edison International Field of Anaheim,1997,33851
+ARL02,The Ballpark in Arlington,1997,49166
+ATL02,Turner Field,1997,50528
+BAL12,Oriole Park at Camden Yards,1997,48079
+BOS07,Fenway Park,1997,34218
+CHI11,Wrigley Field,1997,39600
+CHI12,Comiskey Park II,1997,44321
+CIN08,Cinergy Field,1997,52953
+CLE08,Jacobs Field,1997,43863
+DEN02,Coors Field,1997,50200
+DET04,Tiger Stadium,1997,52806
+HON01,Aloha Stadium,1997,50000
+HOU02,Astrodome,1997,54816
+KAN06,Kauffman Stadium,1997,40613
+LOS03,Dodger Stadium,1997,56000
+MIA01,Pro Player Stadium,1997,47662
+MIL05,County Stadium,1997,53192
+MIN03,Hubert H. Humphrey Metrodome,1997,48678
+MON02,Stade Olympique,1997,46500
+NYC16,Yankee Stadium I,1997,57545
+NYC17,Shea Stadium,1997,55775
+OAK01,UMAX Coliseum,1997,42219
+PHI12,Veterans Stadium,1997,62382
+PIT07,Three Rivers Stadium,1997,47952
+SAN01,Qualcomm Stadium,1997,67544
+SEA02,Kingdome,1997,59438
+SFO02,3Com Park at Candlestick Point,1997,57546
+STL09,Busch Stadium II,1997,49779
+TOR02,SkyDome,1997,50516
+ANA01,Anaheim Stadium,1996,64573
+ARL02,The Ballpark in Arlington,1996,48100
+ATL01,Atlanta-Fulton County Stadium,1996,52900
+BAL12,Oriole Park at Camden Yards,1996,48079
+BOS07,Fenway Park,1996,34218
+CHI11,Wrigley Field,1996,39600
+CHI12,Comiskey Park II,1996,44321
+CIN08,Cinergy Field,1996,52953
+CLE08,Jacobs Field,1996,42865
+DEN02,Coors Field,1996,50200
+DET04,Tiger Stadium,1996,52806
+HOU02,Astrodome,1996,54816
+KAN06,Kauffman Stadium,1996,40613
+LAS01,Cashman Field,1996,9500
+LOS03,Dodger Stadium,1996,56000
+MIA01,Joe Robbie Stadium,1996,47662
+MIL05,County Stadium,1996,53192
+MIN03,Hubert H. Humphrey Metrodome,1996,44457
+MNT01,Estadio Monterrey,1996,27000
+MON02,Stade Olympique,1996,46500
+NYC16,Yankee Stadium I,1996,57545
+NYC17,Shea Stadium,1996,55775
+OAK01,Oakland-Alameda County Coliseum,1996,42219
+PHI12,Veterans Stadium,1996,62382
+PIT07,Three Rivers Stadium,1996,47952
+SAN01,Jack Murphy Stadium,1996,59022
+SEA02,Kingdome,1996,59438
+SFO02,3Com Park at Candlestick Point,1996,57546
+STL09,Busch Stadium II,1996,49779
+TOR02,SkyDome,1996,50516
+ANA01,Anaheim Stadium,1995,64573
+ARL02,The Ballpark in Arlington,1995,49178
+ATL01,Atlanta-Fulton County Stadium,1995,52900
+BAL12,Oriole Park at Camden Yards,1995,48079
+BOS07,Fenway Park,1995,34218
+CHI11,Wrigley Field,1995,39600
+CHI12,Comiskey Park II,1995,44321
+CIN08,Riverfront Stadium,1995,52953
+CLE08,Jacobs Field,1995,42865
+DEN02,Coors Field,1995,50200
+DET04,Tiger Stadium,1995,52806
+HOU02,Astrodome,1995,54816
+KAN06,Kauffman Stadium,1995,40613
+LOS03,Dodger Stadium,1995,56000
+MIA01,Joe Robbie Stadium,1995,47662
+MIL05,County Stadium,1995,53192
+MIN03,Hubert H. Humphrey Metrodome,1995,55883
+MON02,Stade Olympique,1995,46500
+NYC16,Yankee Stadium I,1995,57545
+NYC17,Shea Stadium,1995,55775
+OAK01,Oakland-Alameda County Coliseum,1995,48219
+PHI12,Veterans Stadium,1995,62382
+PIT07,Three Rivers Stadium,1995,47952
+SAN01,Jack Murphy Stadium,1995,59022
+SEA02,Kingdome,1995,59438
+SFO02,Candlestick Park,1995,57546
+STL09,Busch Stadium II,1995,49779
+TOR02,SkyDome,1995,50516
+ANA01,Anaheim Stadium,1994,64573
+ARL02,The Ballpark in Arlington,1994,49178
+ATL01,Atlanta-Fulton County Stadium,1994,52900
+BAL12,Oriole Park at Camden Yards,1994,48079
+BOS07,Fenway Park,1994,34218
+CHI11,Wrigley Field,1994,39600
+CHI12,Comiskey Park II,1994,44321
+CIN08,Riverfront Stadium,1994,52953
+CLE08,Jacobs Field,1994,42865
+DEN01,Mile High Stadium,1994,76123
+DET04,Tiger Stadium,1994,52806
+HOU02,Astrodome,1994,54816
+KAN06,Kauffman Stadium,1994,40613
+LOS03,Dodger Stadium,1994,56000
+MIA01,Joe Robbie Stadium,1994,47662
+MIL05,County Stadium,1994,53192
+MIN03,Hubert H. Humphrey Metrodome,1994,55883
+MON02,Stade Olympique,1994,46500
+NYC16,Yankee Stadium I,1994,57545
+NYC17,Shea Stadium,1994,55775
+OAK01,Oakland-Alameda County Coliseum,1994,48219
+PHI12,Veterans Stadium,1994,62382
+PIT07,Three Rivers Stadium,1994,47952
+SAN01,Jack Murphy Stadium,1994,59022
+SEA02,Kingdome,1994,59438
+SFO02,Candlestick Park,1994,58945
+STL09,Busch Stadium II,1994,49779
+TOR02,SkyDome,1994,50516
+ANA01,Anaheim Stadium,1993,64573
+ARL01,Arlington Stadium,1993,43521
+ATL01,Atlanta-Fulton County Stadium,1993,52700
+BAL12,Oriole Park at Camden Yards,1993,48079
+BOS07,Fenway Park,1993,34218
+CHI11,Wrigley Field,1993,39600
+CHI12,Comiskey Park II,1993,44321
+CIN08,Riverfront Stadium,1993,52953
+CLE07,Cleveland Stadium,1993,74483
+DEN01,Mile High Stadium,1993,76123
+DET04,Tiger Stadium,1993,52806
+HOU02,Astrodome,1993,54816
+KAN06,Kauffman Stadium,1993,40613
+LOS03,Dodger Stadium,1993,56000
+MIA01,Joe Robbie Stadium,1993,47662
+MIL05,County Stadium,1993,53192
+MIN03,Hubert H. Humphrey Metrodome,1993,55883
+MON02,Stade Olympique,1993,46500
+NYC16,Yankee Stadium I,1993,57545
+NYC17,Shea Stadium,1993,55775
+OAK01,Oakland-Alameda County Coliseum,1993,48219
+PHI12,Veterans Stadium,1993,62382
+PIT07,Three Rivers Stadium,1993,47952
+SAN01,Jack Murphy Stadium,1993,59022
+SEA02,Kingdome,1993,59438
+SFO02,Candlestick Park,1993,58945
+STL09,Busch Stadium II,1993,49779
+TOR02,SkyDome,1993,50516
+ANA01,Anaheim Stadium,1992,64573
+ARL01,Arlington Stadium,1992,41284
+ATL01,Atlanta-Fulton County Stadium,1992,52700
+BAL12,Oriole Park at Camden Yards,1992,48079
+BOS07,Fenway Park,1992,33368
+CHI11,Wrigley Field,1992,39600
+CHI12,Comiskey Park II,1992,44702
+CIN08,Riverfront Stadium,1992,52953
+CLE07,Cleveland Stadium,1992,74483
+DET04,Tiger Stadium,1992,52806
+HOU02,Astrodome,1992,54816
+KAN06,Royals Stadium,1992,40613
+LOS03,Dodger Stadium,1992,56000
+MIL05,County Stadium,1992,53192
+MIN03,Hubert H. Humphrey Metrodome,1992,55883
+MON02,Stade Olympique,1992,46500
+NYC16,Yankee Stadium I,1992,57545
+NYC17,Shea Stadium,1992,55775
+OAK01,Oakland-Alameda County Coliseum,1992,48219
+PHI12,Veterans Stadium,1992,62382
+PIT07,Three Rivers Stadium,1992,47952
+SAN01,Jack Murphy Stadium,1992,59022
+SEA02,Kingdome,1992,59438
+SFO02,Candlestick Park,1992,58945
+STL09,Busch Stadium II,1992,49779
+TOR02,SkyDome,1992,50516
+ANA01,Anaheim Stadium,1991,64573
+ARL01,Arlington Stadium,1991,41284
+ATL01,Atlanta-Fulton County Stadium,1991,52700
+BAL11,Memorial Stadium,1991,53371
+BOS07,Fenway Park,1991,33368
+CHI11,Wrigley Field,1991,39600
+CHI12,Comiskey Park II,1991,44702
+CIN08,Riverfront Stadium,1991,52953
+CLE07,Cleveland Stadium,1991,74483
+DET04,Tiger Stadium,1991,52806
+HOU02,Astrodome,1991,54816
+KAN06,Royals Stadium,1991,40613
+LOS03,Dodger Stadium,1991,56000
+MIL05,County Stadium,1991,53192
+MIN03,Hubert H. Humphrey Metrodome,1991,55883
+MON02,Stade Olympique,1991,60111
+NYC16,Yankee Stadium I,1991,57545
+NYC17,Shea Stadium,1991,55775
+OAK01,Oakland-Alameda County Coliseum,1991,48219
+PHI12,Veterans Stadium,1991,62382
+PIT07,Three Rivers Stadium,1991,47952
+SAN01,Jack Murphy Stadium,1991,59022
+SEA02,Kingdome,1991,59438
+SFO02,Candlestick Park,1991,58945
+STL09,Busch Stadium II,1991,50222
+TOR02,SkyDome,1991,50516
+ANA01,Anaheim Stadium,1990,64573
+ARL01,Arlington Stadium,1990,41284
+ATL01,Atlanta-Fulton County Stadium,1990,52700
+BAL11,Memorial Stadium,1990,54017
+BOS07,Fenway Park,1990,33368
+CHI10,Comiskey Park I,1990,43951
+CHI11,Wrigley Field,1990,39600
+CIN08,Riverfront Stadium,1990,52953
+CLE07,Cleveland Stadium,1990,74483
+DET04,Tiger Stadium,1990,52806
+HOU02,Astrodome,1990,54816
+KAN06,Royals Stadium,1990,40613
+LOS03,Dodger Stadium,1990,56000
+MIL05,County Stadium,1990,53192
+MIN03,Hubert H. Humphrey Metrodome,1990,55883
+MON02,Stade Olympique,1990,59149
+NYC16,Yankee Stadium I,1990,57545
+NYC17,Shea Stadium,1990,55775
+OAK01,Oakland-Alameda County Coliseum,1990,48219
+PHI12,Veterans Stadium,1990,62382
+PIT07,Three Rivers Stadium,1990,47952
+SAN01,Jack Murphy Stadium,1990,59022
+SEA02,Kingdome,1990,59438
+SFO02,Candlestick Park,1990,58945
+STL09,Busch Stadium II,1990,50222
+TOR02,SkyDome,1990,50516
+ANA01,Anaheim Stadium,1989,64573
+ARL01,Arlington Stadium,1989,41284
+ATL01,Atlanta-Fulton County Stadium,1989,52006
+BAL11,Memorial Stadium,1989,54017
+BOS07,Fenway Park,1989,33368
+CHI10,Comiskey Park I,1989,43931
+CHI11,Wrigley Field,1989,39600
+CIN08,Riverfront Stadium,1989,52953
+CLE07,Cleveland Stadium,1989,74483
+DET04,Tiger Stadium,1989,52806
+HOU02,Astrodome,1989,47000
+KAN06,Royals Stadium,1989,40613
+LOS03,Dodger Stadium,1989,56000
+MIL05,County Stadium,1989,53192
+MIN03,Hubert H. Humphrey Metrodome,1989,55883
+MON02,Stade Olympique,1989,59149
+NYC16,Yankee Stadium I,1989,57545
+NYC17,Shea Stadium,1989,55775
+OAK01,Oakland-Alameda County Coliseum,1989,50000
+PHI12,Veterans Stadium,1989,62382
+PIT07,Three Rivers Stadium,1989,58336
+SAN01,Jack Murphy Stadium,1989,59022
+SEA02,Kingdome,1989,59438
+SFO02,Candlestick Park,1989,58945
+STL09,Busch Stadium II,1989,50222
+TOR01,Exhibition Stadium,1989,43737
+TOR02,SkyDome,1989,50516
+ANA01,Anaheim Stadium,1988,64573
+ARL01,Arlington Stadium,1988,41284
+ATL01,Atlanta-Fulton County Stadium,1988,52006
+BAL11,Memorial Stadium,1988,54017
+BOS07,Fenway Park,1988,33368
+CHI10,Comiskey Park I,1988,44492
+CHI11,Wrigley Field,1988,37702
+CIN08,Riverfront Stadium,1988,52953
+CLE07,Cleveland Stadium,1988,74483
+DET04,Tiger Stadium,1988,52806
+HOU02,Astrodome,1988,47000
+KAN06,Royals Stadium,1988,40613
+LOS03,Dodger Stadium,1988,56000
+MIL05,County Stadium,1988,53192
+MIN03,Hubert H. Humphrey Metrodome,1988,54711
+MON02,Stade Olympique,1988,59149
+NYC16,Yankee Stadium I,1988,57545
+NYC17,Shea Stadium,1988,55775
+OAK01,Oakland-Alameda County Coliseum,1988,50000
+PHI12,Veterans Stadium,1988,62382
+PIT07,Three Rivers Stadium,1988,58336
+SAN01,Jack Murphy Stadium,1988,59022
+SEA02,Kingdome,1988,59438
+SFO02,Candlestick Park,1988,58945
+STL09,Busch Stadium II,1988,50222
+TOR01,Exhibition Stadium,1988,43737
+ANA01,Anaheim Stadium,1987,64573
+ARL01,Arlington Stadium,1987,41284
+ATL01,Atlanta-Fulton County Stadium,1987,52006
+BAL11,Memorial Stadium,1987,54002
+BOS07,Fenway Park,1987,33368
+CHI10,Comiskey Park I,1987,44492
+CHI11,Wrigley Field,1987,37702
+CIN08,Riverfront Stadium,1987,52953
+CLE07,Cleveland Stadium,1987,74483
+DET04,Tiger Stadium,1987,52806
+HOU02,Astrodome,1987,47000
+KAN06,Royals Stadium,1987,40613
+LOS03,Dodger Stadium,1987,56000
+MIL05,County Stadium,1987,53192
+MIN03,Hubert H. Humphrey Metrodome,1987,54711
+MON02,Stade Olympique,1987,59149
+NYC16,Yankee Stadium I,1987,57545
+NYC17,Shea Stadium,1987,55775
+OAK01,Oakland-Alameda County Coliseum,1987,50000
+PHI12,Veterans Stadium,1987,62382
+PIT07,Three Rivers Stadium,1987,58336
+SAN01,Jack Murphy Stadium,1987,59022
+SEA02,Kingdome,1987,59438
+SFO02,Candlestick Park,1987,58945
+STL09,Busch Stadium II,1987,50222
+TOR01,Exhibition Stadium,1987,43737
+ANA01,Anaheim Stadium,1986,64573
+ARL01,Arlington Stadium,1986,41284
+ATL01,Atlanta-Fulton County Stadium,1986,53046
+BAL11,Memorial Stadium,1986,54076
+BOS07,Fenway Park,1986,33368
+CHI10,Comiskey Park I,1986,44492
+CHI11,Wrigley Field,1986,37702
+CIN08,Riverfront Stadium,1986,52953
+CLE07,Cleveland Stadium,1986,74483
+DET04,Tiger Stadium,1986,52806
+HOU02,Astrodome,1986,47000
+KAN06,Royals Stadium,1986,40613
+LOS03,Dodger Stadium,1986,56000
+MIL05,County Stadium,1986,53192
+MIN03,Hubert H. Humphrey Metrodome,1986,54711
+MON02,Stade Olympique,1986,59149
+NYC16,Yankee Stadium I,1986,57545
+NYC17,Shea Stadium,1986,55775
+OAK01,Oakland-Alameda County Coliseum,1986,50000
+PHI12,Veterans Stadium,1986,62382
+PIT07,Three Rivers Stadium,1986,58336
+SAN01,Jack Murphy Stadium,1986,59022
+SEA02,Kingdome,1986,59438
+SFO02,Candlestick Park,1986,58945
+STL09,Busch Stadium II,1986,50222
+TOR01,Exhibition Stadium,1986,43737
+ANA01,Anaheim Stadium,1985,64573
+ARL01,Arlington Stadium,1985,41284
+ATL01,Atlanta-Fulton County Stadium,1985,53046
+BAL11,Memorial Stadium,1985,53198
+BOS07,Fenway Park,1985,33368
+CHI10,Comiskey Park I,1985,44492
+CHI11,Wrigley Field,1985,37702
+CIN08,Riverfront Stadium,1985,52953
+CLE07,Cleveland Stadium,1985,74483
+DET04,Tiger Stadium,1985,52806
+HOU02,Astrodome,1985,47000
+KAN06,Royals Stadium,1985,40613
+LOS03,Dodger Stadium,1985,56000
+MIL05,County Stadium,1985,53192
+MIN03,Hubert H. Humphrey Metrodome,1985,54711
+MON02,Stade Olympique,1985,59149
+NYC16,Yankee Stadium I,1985,57545
+NYC17,Shea Stadium,1985,55775
+OAK01,Oakland-Alameda County Coliseum,1985,50000
+PHI12,Veterans Stadium,1985,62382
+PIT07,Three Rivers Stadium,1985,58336
+SAN01,Jack Murphy Stadium,1985,59022
+SEA02,Kingdome,1985,59438
+SFO02,Candlestick Park,1985,58945
+STL09,Busch Stadium II,1985,50222
+TOR01,Exhibition Stadium,1985,43737
+ANA01,Anaheim Stadium,1984,64573
+ARL01,Arlington Stadium,1984,41284
+ATL01,Atlanta-Fulton County Stadium,1984,52785
+BAL11,Memorial Stadium,1984,52860
+BOS07,Fenway Park,1984,33368
+CHI10,Comiskey Park I,1984,44492
+CHI11,Wrigley Field,1984,37702
+CIN08,Riverfront Stadium,1984,52953
+CLE07,Cleveland Stadium,1984,74483
+DET04,Tiger Stadium,1984,52806
+HOU02,Astrodome,1984,47000
+KAN06,Royals Stadium,1984,40613
+LOS03,Dodger Stadium,1984,56000
+MIL05,County Stadium,1984,53192
+MIN03,Hubert H. Humphrey Metrodome,1984,54711
+MON02,Stade Olympique,1984,59149
+NYC16,Yankee Stadium I,1984,57545
+NYC17,Shea Stadium,1984,55300
+OAK01,Oakland-Alameda County Coliseum,1984,50000
+PHI12,Veterans Stadium,1984,62382
+PIT07,Three Rivers Stadium,1984,58336
+SAN01,Jack Murphy Stadium,1984,59022
+SEA02,Kingdome,1984,59438
+SFO02,Candlestick Park,1984,58945
+STL09,Busch Stadium II,1984,50222
+TOR01,Exhibition Stadium,1984,43737
+ANA01,Anaheim Stadium,1983,64573
+ARL01,Arlington Stadium,1983,41284
+ATL01,Atlanta-Fulton County Stadium,1983,52934
+BAL11,Memorial Stadium,1983,52860
+BOS07,Fenway Park,1983,33368
+CHI10,Comiskey Park I,1983,44492
+CHI11,Wrigley Field,1983,37702
+CIN08,Riverfront Stadium,1983,52953
+CLE07,Cleveland Stadium,1983,74483
+DET04,Tiger Stadium,1983,52806
+HOU02,Astrodome,1983,47000
+KAN06,Royals Stadium,1983,40613
+LOS03,Dodger Stadium,1983,56000
+MIL05,County Stadium,1983,53192
+MIN03,Hubert H. Humphrey Metrodome,1983,54711
+MON02,Stade Olympique,1983,59149
+NYC16,Yankee Stadium I,1983,57545
+NYC17,Shea Stadium,1983,55300
+OAK01,Oakland-Alameda County Coliseum,1983,50000
+PHI12,Veterans Stadium,1983,62382
+PIT07,Three Rivers Stadium,1983,58722
+SAN01,Jack Murphy Stadium,1983,50000
+SEA02,Kingdome,1983,59059
+SFO02,Candlestick Park,1983,58945
+STL09,Busch Memorial Stadium,1983,53138
+TOR01,Exhibition Stadium,1983,43737
+ANA01,Anaheim Stadium,1982,64573
+ARL01,Arlington Stadium,1982,41284
+ATL01,Atlanta-Fulton County Stadium,1982,52785
+BAL11,Memorial Stadium,1982,53208
+BOS07,Fenway Park,1982,33368
+CHI10,Comiskey Park I,1982,44492
+CHI11,Wrigley Field,1982,37702
+CIN08,Riverfront Stadium,1982,52953
+CLE07,Cleveland Stadium,1982,74483
+DET04,Tiger Stadium,1982,52806
+HOU02,Astrodome,1982,47000
+KAN06,Royals Stadium,1982,40613
+LOS03,Dodger Stadium,1982,56000
+MIL05,County Stadium,1982,53192
+MIN03,Hubert H. Humphrey Metrodome,1982,54711
+MON02,Stade Olympique,1982,59149
+NYC16,Yankee Stadium I,1982,57545
+NYC17,Shea Stadium,1982,55300
+OAK01,Oakland-Alameda County Coliseum,1982,50000
+PHI12,Veterans Stadium,1982,62382
+PIT07,Three Rivers Stadium,1982,58722
+SAN01,Jack Murphy Stadium,1982,50000
+SEA02,Kingdome,1982,59059
+SFO02,Candlestick Park,1982,58945
+STL09,Busch Memorial Stadium,1982,53138
+TOR01,Exhibition Stadium,1982,43737
+ANA01,Anaheim Stadium,1981,64573
+ARL01,Arlington Stadium,1981,41284
+ATL01,Atlanta-Fulton County Stadium,1981,52194
+BAL11,Memorial Stadium,1981,52862
+BOS07,Fenway Park,1981,33368
+CHI10,Comiskey Park I,1981,44492
+CHI11,Wrigley Field,1981,37702
+CIN08,Riverfront Stadium,1981,52953
+CLE07,Cleveland Stadium,1981,74483
+DET04,Tiger Stadium,1981,52806
+HOU02,Astrodome,1981,47000
+KAN06,Royals Stadium,1981,40613
+LOS03,Dodger Stadium,1981,56000
+MIL05,County Stadium,1981,53192
+MIN02,Metropolitan Stadium,1981,45919
+MON02,Stade Olympique,1981,59149
+NYC16,Yankee Stadium I,1981,57545
+NYC17,Shea Stadium,1981,55300
+OAK01,Oakland-Alameda County Coliseum,1981,50000
+PHI12,Veterans Stadium,1981,62382
+PIT07,Three Rivers Stadium,1981,58722
+SAN01,Jack Murphy Stadium,1981,50000
+SEA02,Kingdome,1981,59059
+SFO02,Candlestick Park,1981,58945
+STL09,Busch Memorial Stadium,1981,53138
+TOR01,Exhibition Stadium,1981,43737
+ANA01,Anaheim Stadium,1980,64573
+ARL01,Arlington Stadium,1980,41284
+ATL01,Atlanta-Fulton County Stadium,1980,52194
+BAL11,Memorial Stadium,1980,52862
+BOS07,Fenway Park,1980,33368
+CHI10,Comiskey Park I,1980,44492
+CHI11,Wrigley Field,1980,37702
+CIN08,Riverfront Stadium,1980,52953
+CLE07,Cleveland Stadium,1980,74483
+DET04,Tiger Stadium,1980,52806
+HOU02,Astrodome,1980,47000
+KAN06,Royals Stadium,1980,40613
+LOS03,Dodger Stadium,1980,56000
+MIL05,County Stadium,1980,53192
+MIN02,Metropolitan Stadium,1980,45919
+MON02,Stade Olympique,1980,59149
+NYC16,Yankee Stadium I,1980,57545
+NYC17,Shea Stadium,1980,55300
+OAK01,Oakland-Alameda County Coliseum,1980,50000
+PHI12,Veterans Stadium,1980,62382
+PIT07,Three Rivers Stadium,1980,58722
+SAN01,San Diego Stadium,1980,50000
+SEA02,Kingdome,1980,59059
+SFO02,Candlestick Park,1980,58945
+STL09,Busch Memorial Stadium,1980,53138
+TOR01,Exhibition Stadium,1980,43737
+ANA01,Anaheim Stadium,1979,43500
+ARL01,Arlington Stadium,1979,41284
+ATL01,Atlanta-Fulton County Stadium,1979,52532
+BAL11,Memorial Stadium,1979,52862
+BOS07,Fenway Park,1979,33368
+CHI10,Comiskey Park I,1979,44492
+CHI11,Wrigley Field,1979,37702
+CIN08,Riverfront Stadium,1979,52953
+CLE07,Cleveland Stadium,1979,74483
+DET04,Tiger Stadium,1979,52806
+HOU02,Astrodome,1979,47000
+KAN06,Royals Stadium,1979,40613
+LOS03,Dodger Stadium,1979,56000
+MIL05,County Stadium,1979,53192
+MIN02,Metropolitan Stadium,1979,45919
+MON02,Stade Olympique,1979,59149
+NYC16,Yankee Stadium I,1979,57145
+NYC17,Shea Stadium,1979,55300
+OAK01,Oakland-Alameda County Coliseum,1979,50000
+PHI12,Veterans Stadium,1979,62382
+PIT07,Three Rivers Stadium,1979,58722
+SAN01,San Diego Stadium,1979,50000
+SEA02,Kingdome,1979,59059
+SFO02,Candlestick Park,1979,58945
+STL09,Busch Memorial Stadium,1979,53138
+TOR01,Exhibition Stadium,1979,43737
+ANA01,Anaheim Stadium,1978,43500
+ARL01,Arlington Stadium,1978,41284
+ATL01,Atlanta-Fulton County Stadium,1978,51556
+BAL11,Memorial Stadium,1978,53208
+BOS07,Fenway Park,1978,33368
+CHI10,Comiskey Park I,1978,44492
+CHI11,Wrigley Field,1978,37702
+CIN08,Riverfront Stadium,1978,52953
+CLE07,Cleveland Stadium,1978,74483
+DET04,Tiger Stadium,1978,52806
+HOU02,Astrodome,1978,47000
+KAN06,Royals Stadium,1978,40613
+LOS03,Dodger Stadium,1978,56000
+MIL05,County Stadium,1978,53192
+MIN02,Metropolitan Stadium,1978,45919
+MON02,Stade Olympique,1978,59149
+NYC16,Yankee Stadium I,1978,57145
+NYC17,Shea Stadium,1978,55300
+OAK01,Oakland-Alameda County Coliseum,1978,50000
+PHI12,Veterans Stadium,1978,62382
+PIT07,Three Rivers Stadium,1978,58722
+SAN01,San Diego Stadium,1978,50000
+SEA02,Kingdome,1978,59059
+SFO02,Candlestick Park,1978,58945
+STL09,Busch Memorial Stadium,1978,53138
+TOR01,Exhibition Stadium,1978,43737
+ANA01,Anaheim Stadium,1977,43500
+ARL01,Arlington Stadium,1977,35649
+ATL01,Atlanta-Fulton County Stadium,1977,51556
+BAL11,Memorial Stadium,1977,53208
+BOS07,Fenway Park,1977,33368
+CHI10,Comiskey Park I,1977,44492
+CHI11,Wrigley Field,1977,37702
+CIN08,Riverfront Stadium,1977,52953
+CLE07,Cleveland Stadium,1977,74483
+DET04,Tiger Stadium,1977,52806
+HOU02,Astrodome,1977,47000
+KAN06,Royals Stadium,1977,40613
+LOS03,Dodger Stadium,1977,56000
+MIL05,County Stadium,1977,53192
+MIN02,Metropolitan Stadium,1977,45919
+MON02,Stade Olympique,1977,58838
+NYC16,Yankee Stadium I,1977,57145
+NYC17,Shea Stadium,1977,55300
+OAK01,Oakland-Alameda County Coliseum,1977,50000
+PHI12,Veterans Stadium,1977,62382
+PIT07,Three Rivers Stadium,1977,58722
+SAN01,San Diego Stadium,1977,50000
+SEA02,Kingdome,1977,59059
+SFO02,Candlestick Park,1977,58945
+STL09,Busch Memorial Stadium,1977,53138
+TOR01,Exhibition Stadium,1977,38522
+ANA01,Anaheim Stadium,1976,43500
+ARL01,Arlington Stadium,1976,35649
+ATL01,Atlanta-Fulton County Stadium,1976,51556
+BAL11,Memorial Stadium,1976,53208
+BOS07,Fenway Park,1976,33368
+CHI10,Comiskey Park I,1976,44492
+CHI11,Wrigley Field,1976,37702
+CIN08,Riverfront Stadium,1976,52953
+CLE07,Cleveland Stadium,1976,74483
+DET04,Tiger Stadium,1976,52806
+HOU02,Astrodome,1976,47000
+KAN06,Royals Stadium,1976,40613
+LOS03,Dodger Stadium,1976,56000
+MIL05,County Stadium,1976,53192
+MIN02,Metropolitan Stadium,1976,45919
+MON01,Parc Jarry,1976,29125
+NYC16,Yankee Stadium I,1976,54028
+NYC17,Shea Stadium,1976,55300
+OAK01,Oakland-Alameda County Coliseum,1976,50000
+PHI12,Veterans Stadium,1976,62382
+PIT07,Three Rivers Stadium,1976,58722
+SAN01,San Diego Stadium,1976,50000
+SFO02,Candlestick Park,1976,58945
+STL09,Busch Memorial Stadium,1976,53138
+ANA01,Anaheim Stadium,1975,43500
+ARL01,Arlington Stadium,1975,35649
+ATL01,Atlanta-Fulton County Stadium,1975,52780
+BAL11,Memorial Stadium,1975,53208
+BOS07,Fenway Park,1975,33368
+CHI10,Comiskey Park I,1975,44492
+CHI11,Wrigley Field,1975,37702
+CIN08,Riverfront Stadium,1975,52953
+CLE07,Cleveland Stadium,1975,74483
+DET04,Tiger Stadium,1975,52806
+HOU02,Astrodome,1975,47000
+KAN06,Royals Stadium,1975,40613
+LOS03,Dodger Stadium,1975,56000
+MIL05,County Stadium,1975,53192
+MIN02,Metropolitan Stadium,1975,45919
+MON01,Parc Jarry,1975,29125
+NYC17,Shea Stadium,1975,55601
+OAK01,Oakland-Alameda County Coliseum,1975,50000
+PHI12,Veterans Stadium,1975,62382
+PIT07,Three Rivers Stadium,1975,58722
+SAN01,San Diego Stadium,1975,50000
+SFO02,Candlestick Park,1975,58945
+STL09,Busch Memorial Stadium,1975,53138
+ANA01,Anaheim Stadium,1974,43500
+ARL01,Arlington Stadium,1974,35649
+ATL01,Atlanta Stadium,1974,52780
+BAL11,Memorial Stadium,1974,53208
+BOS07,Fenway Park,1974,33368
+CHI10,Comiskey Park I,1974,44492
+CHI11,Wrigley Field,1974,37702
+CIN08,Riverfront Stadium,1974,52953
+CLE07,Cleveland Stadium,1974,74483
+DET04,Tiger Stadium,1974,52806
+HOU02,Astrodome,1974,47000
+KAN06,Royals Stadium,1974,40613
+LOS03,Dodger Stadium,1974,56000
+MIL05,County Stadium,1974,53192
+MIN02,Metropolitan Stadium,1974,45919
+MON01,Parc Jarry,1974,29125
+NYC17,Shea Stadium,1974,55601
+OAK01,Oakland-Alameda County Coliseum,1974,50000
+PHI12,Veterans Stadium,1974,62382
+PIT07,Three Rivers Stadium,1974,58722
+SAN01,San Diego Stadium,1974,50000
+SFO02,Candlestick Park,1974,58945
+STL09,Busch Memorial Stadium,1974,53138
+ANA01,Anaheim Stadium,1973,43500
+ARL01,Arlington Stadium,1973,35649
+ATL01,Atlanta Stadium,1973,51383
+BAL11,Memorial Stadium,1973,53208
+BOS07,Fenway Park,1973,33368
+CHI10,Comiskey Park I,1973,44492
+CHI11,Wrigley Field,1973,37702
+CIN08,Riverfront Stadium,1973,52953
+CLE07,Cleveland Stadium,1973,74483
+DET04,Tiger Stadium,1973,52806
+HOU02,Astrodome,1973,47000
+KAN06,Royals Stadium,1973,40613
+LOS03,Dodger Stadium,1973,56000
+MIL05,County Stadium,1973,53192
+MIN02,Metropolitan Stadium,1973,45919
+MON01,Parc Jarry,1973,29125
+NYC16,Yankee Stadium I,1973,65010
+NYC17,Shea Stadium,1973,55300
+OAK01,Oakland-Alameda County Coliseum,1973,50000
+PHI12,Veterans Stadium,1973,62382
+PIT07,Three Rivers Stadium,1973,58722
+SAN01,San Diego Stadium,1973,50000
+SFO02,Candlestick Park,1973,58945
+STL09,Busch Memorial Stadium,1973,53138
+ANA01,Anaheim Stadium,1972,43500
+ARL01,Arlington Stadium,1972,35185
+ATL01,Atlanta Stadium,1972,51383
+BAL11,Memorial Stadium,1972,53208
+BOS07,Fenway Park,1972,33368
+CHI10,Comiskey Park I,1972,44492
+CHI11,Wrigley Field,1972,37702
+CIN08,Riverfront Stadium,1972,52953
+CLE07,Cleveland Stadium,1972,74483
+DET04,Tiger Stadium,1972,52806
+HOU02,Astrodome,1972,47000
+KAN05,Municipal Stadium,1972,35561
+LOS03,Dodger Stadium,1972,56000
+MIL05,County Stadium,1972,53192
+MIN02,Metropolitan Stadium,1972,45919
+MON01,Parc Jarry,1972,29125
+NYC16,Yankee Stadium I,1972,65010
+NYC17,Shea Stadium,1972,55300
+OAK01,Oakland-Alameda County Coliseum,1972,50000
+PHI12,Veterans Stadium,1972,62382
+PIT07,Three Rivers Stadium,1972,58722
+SAN01,San Diego Stadium,1972,50000
+SFO02,Candlestick Park,1972,58945
+STL09,Busch Memorial Stadium,1972,53138
+ANA01,Anaheim Stadium,1971,43500
+ATL01,Atlanta Stadium,1971,51383
+BAL11,Memorial Stadium,1971,53208
+BOS07,Fenway Park,1971,33368
+CHI10,Comiskey Park I,1971,44492
+CHI11,Wrigley Field,1971,36755
+CIN08,Riverfront Stadium,1971,52953
+CLE07,Cleveland Stadium,1971,74483
+DET04,Tiger Stadium,1971,52806
+HOU02,Astrodome,1971,47000
+KAN05,Municipal Stadium,1971,35561
+LOS03,Dodger Stadium,1971,56000
+MIL05,County Stadium,1971,53192
+MIN02,Metropolitan Stadium,1971,45919
+MON01,Parc Jarry,1971,29125
+NYC16,Yankee Stadium I,1971,65010
+NYC17,Shea Stadium,1971,55300
+OAK01,Oakland-Alameda County Coliseum,1971,50000
+PHI12,Veterans Stadium,1971,56371
+PIT07,Three Rivers Stadium,1971,58722
+SAN01,San Diego Stadium,1971,50000
+SFO02,Candlestick Park,1971,58945
+STL09,Busch Memorial Stadium,1971,53138
+WAS10,Robert F. Kennedy Stadium,1971,45016
+ANA01,Anaheim Stadium,1970,43500
+ATL01,Atlanta Stadium,1970,51383
+BAL11,Memorial Stadium,1970,53208
+BOS07,Fenway Park,1970,33368
+CHI10,Comiskey Park I,1970,44492
+CHI11,Wrigley Field,1970,36755
+CIN07,Crosley Field,1970,29488
+CIN08,Riverfront Stadium,1970,52953
+CLE07,Cleveland Stadium,1970,74483
+DET04,Tiger Stadium,1970,52806
+HOU02,Astrodome,1970,47000
+KAN05,Municipal Stadium,1970,35561
+LOS03,Dodger Stadium,1970,56000
+MIL05,County Stadium,1970,53192
+MIN02,Metropolitan Stadium,1970,45919
+MON01,Parc Jarry,1970,29125
+NYC16,Yankee Stadium I,1970,67000
+NYC17,Shea Stadium,1970,55300
+OAK01,Oakland-Alameda County Coliseum,1970,50000
+PHI11,Connie Mack Stadium,1970,33608
+PIT06,Forbes Field,1970,35000
+PIT07,Three Rivers Stadium,1970,50500
+SAN01,San Diego Stadium,1970,50000
+SFO02,Candlestick Park,1970,45744
+STL09,Busch Memorial Stadium,1970,53138
+WAS10,Robert F. Kennedy Stadium,1970,45016
+ANA01,Anaheim Stadium,1969,43500
+ATL01,Atlanta Stadium,1969,51383
+BAL11,Memorial Stadium,1969,52137
+BOS07,Fenway Park,1969,33368
+CHI10,Comiskey Park I,1969,44492
+CHI11,Wrigley Field,1969,36755
+CIN07,Crosley Field,1969,29603
+CLE07,Cleveland Stadium,1969,74483
+DET04,Tiger Stadium,1969,52806
+HOU02,Astrodome,1969,47000
+KAN05,Municipal Stadium,1969,35561
+LOS03,Dodger Stadium,1969,56000
+MIL05,County Stadium,1969,53192
+MIN02,Metropolitan Stadium,1969,45919
+MON01,Parc Jarry,1969,28250
+NYC16,Yankee Stadium I,1969,67000
+NYC17,Shea Stadium,1969,55300
+OAK01,Oakland-Alameda County Coliseum,1969,50000
+PHI11,Connie Mack Stadium,1969,33608
+PIT06,Forbes Field,1969,35000
+SAN01,San Diego Stadium,1969,50000
+SEA01,Sicks' Stadium,1969,25000
+SFO02,Candlestick Park,1969,45744
+STL09,Busch Memorial Stadium,1969,53138
+WAS10,Robert F. Kennedy Stadium,1969,45016
+ANA01,Anaheim Stadium,1968,43500
+ATL01,Atlanta Stadium,1968,51383
+BAL11,Memorial Stadium,1968,52185
+BOS07,Fenway Park,1968,33368
+CHI10,Comiskey Park I,1968,52934
+CHI11,Wrigley Field,1968,36755
+CIN07,Crosley Field,1968,29603
+CLE07,Cleveland Stadium,1968,74483
+DET04,Tiger Stadium,1968,52806
+HOU02,Astrodome,1968,47000
+LOS03,Dodger Stadium,1968,56000
+MIL05,County Stadium,1968,53192
+MIN02,Metropolitan Stadium,1968,45919
+NYC16,Yankee Stadium I,1968,67000
+NYC17,Shea Stadium,1968,55300
+OAK01,Oakland-Alameda County Coliseum,1968,50000
+PHI11,Connie Mack Stadium,1968,33608
+PIT06,Forbes Field,1968,35000
+SFO02,Candlestick Park,1968,45744
+STL09,Busch Memorial Stadium,1968,53138
+WAS10,D.C. Stadium,1968,45016
+ANA01,Anaheim Stadium,1967,43500
+ATL01,Atlanta Stadium,1967,50893
+BAL11,Memorial Stadium,1967,52184
+BOS07,Fenway Park,1967,33368
+CHI10,Comiskey Park I,1967,52934
+CHI11,Wrigley Field,1967,36755
+CIN07,Crosley Field,1967,29603
+CLE07,Cleveland Stadium,1967,74483
+DET04,Tiger Stadium,1967,52806
+HOU02,Astrodome,1967,47000
+KAN05,Municipal Stadium,1967,30611
+LOS03,Dodger Stadium,1967,56000
+MIN02,Metropolitan Stadium,1967,45919
+NYC16,Yankee Stadium I,1967,67000
+NYC17,Shea Stadium,1967,55300
+PHI11,Connie Mack Stadium,1967,33608
+PIT06,Forbes Field,1967,35000
+SFO02,Candlestick Park,1967,45744
+STL09,Busch Memorial Stadium,1967,53138
+WAS10,D.C. Stadium,1967,45016
+ANA01,Anaheim Stadium,1966,43500
+ATL01,Atlanta Stadium,1966,50893
+BAL11,Memorial Stadium,1966,52184
+BOS07,Fenway Park,1966,33368
+CHI10,Comiskey Park I,1966,52934
+CHI11,Wrigley Field,1966,36755
+CIN07,Crosley Field,1966,29603
+CLE07,Cleveland Stadium,1966,78189
+DET04,Tiger Stadium,1966,52806
+HOU02,Astrodome,1966,47000
+KAN05,Municipal Stadium,1966,30611
+LOS03,Dodger Stadium,1966,56000
+MIN02,Metropolitan Stadium,1966,45919
+NYC16,Yankee Stadium I,1966,67000
+NYC17,Shea Stadium,1966,55300
+PHI11,Connie Mack Stadium,1966,33608
+PIT06,Forbes Field,1966,35000
+SFO02,Candlestick Park,1966,45744
+STL07,Busch Stadium I,1966,30500
+STL09,Busch Memorial Stadium,1966,57673
+WAS10,D.C. Stadium,1966,45016
+BAL11,Memorial Stadium,1965,52184
+BOS07,Fenway Park,1965,33368
+CHI10,Comiskey Park I,1965,52934
+CHI11,Wrigley Field,1965,36755
+CIN07,Crosley Field,1965,29603
+CLE07,Cleveland Stadium,1965,78189
+DET04,Tiger Stadium,1965,52806
+HOU02,Astrodome,1965,42217
+KAN05,Municipal Stadium,1965,30611
+LOS03,Dodger Stadium,1965,56000
+MIL05,County Stadium,1965,53192
+MIN02,Metropolitan Stadium,1965,45919
+NYC16,Yankee Stadium I,1965,67000
+NYC17,Shea Stadium,1965,55300
+PHI11,Connie Mack Stadium,1965,33608
+PIT06,Forbes Field,1965,35000
+SFO02,Candlestick Park,1965,45744
+STL07,Busch Stadium I,1965,30500
+WAS10,D.C. Stadium,1965,45016
+BAL11,Memorial Stadium,1964,49373
+BOS07,Fenway Park,1964,33368
+CHI10,Comiskey Park I,1964,52934
+CHI11,Wrigley Field,1964,36755
+CIN07,Crosley Field,1964,29603
+CLE07,Cleveland Stadium,1964,78189
+DET04,Tiger Stadium,1964,52806
+HOU01,Colt Stadium,1964,32601
+KAN05,Municipal Stadium,1964,30611
+LOS03,Dodger Stadium,1964,56000
+MIL05,County Stadium,1964,53192
+MIN02,Metropolitan Stadium,1964,40000
+NYC16,Yankee Stadium I,1964,67337
+NYC17,Shea Stadium,1964,55300
+PHI11,Connie Mack Stadium,1964,33608
+PIT06,Forbes Field,1964,35000
+SFO02,Candlestick Park,1964,45744
+STL07,Busch Stadium I,1964,30500
+WAS10,D.C. Stadium,1964,45016
+BAL11,Memorial Stadium,1963,47778
+BOS07,Fenway Park,1963,33368
+CHI10,Comiskey Park I,1963,52934
+CHI11,Wrigley Field,1963,36755
+CIN07,Crosley Field,1963,30274
+CLE07,Cleveland Stadium,1963,78189
+DET04,Tiger Stadium,1963,52806
+HOU01,Colt Stadium,1963,32601
+KAN05,Municipal Stadium,1963,30611
+LOS03,Dodger Stadium,1963,56000
+MIL05,County Stadium,1963,53192
+MIN02,Metropolitan Stadium,1963,40000
+NYC14,Polo Grounds V,1963,56000
+NYC16,Yankee Stadium I,1963,67337
+PHI11,Connie Mack Stadium,1963,33608
+PIT06,Forbes Field,1963,35000
+SFO02,Candlestick Park,1963,45744
+STL07,Busch Stadium I,1963,30500
+WAS10,D.C. Stadium,1963,45016
+BAL11,Memorial Stadium,1962,47778
+BOS07,Fenway Park,1962,33368
+CHI10,Comiskey Park I,1962,52934
+CHI11,Wrigley Field,1962,36755
+CIN07,Crosley Field,1962,30274
+CLE07,Cleveland Stadium,1962,78189
+DET04,Tiger Stadium,1962,52806
+HOU01,Colt Stadium,1962,32601
+KAN05,Municipal Stadium,1962,30611
+LOS03,Dodger Stadium,1962,56000
+MIL05,County Stadium,1962,53192
+MIN02,Metropolitan Stadium,1962,40000
+NYC14,Polo Grounds V,1962,56000
+NYC16,Yankee Stadium I,1962,67337
+PHI11,Connie Mack Stadium,1962,33608
+PIT06,Forbes Field,1962,35000
+SFO02,Candlestick Park,1962,45744
+STL07,Busch Stadium I,1962,30500
+WAS10,D.C. Stadium,1962,43500
+BAL11,Memorial Stadium,1961,47778
+BOS07,Fenway Park,1961,33368
+CHI10,Comiskey Park I,1961,52934
+CHI11,Wrigley Field,1961,36755
+CIN07,Crosley Field,1961,30274
+CLE07,Cleveland Stadium,1961,78189
+DET04,Briggs Stadium,1961,52806
+KAN05,Municipal Stadium,1961,30611
+LOS01,Los Angeles Memorial Coliseum,1961,92572
+LOS02,Wrigley Field,1961,20457
+MIL05,County Stadium,1961,50000
+MIN02,Metropolitan Stadium,1961,30637
+NYC16,Yankee Stadium I,1961,67337
+PHI11,Connie Mack Stadium,1961,33608
+PIT06,Forbes Field,1961,35000
+SFO02,Candlestick Park,1961,45744
+STL07,Busch Stadium I,1961,30500
+WAS09,Griffith Stadium,1961,27550
+BAL11,Memorial Stadium,1960,47778
+BOS07,Fenway Park,1960,33368
+CHI10,Comiskey Park I,1960,52934
+CHI11,Wrigley Field,1960,36755
+CIN07,Crosley Field,1960,30328
+CLE07,Cleveland Stadium,1960,78189
+DET04,Briggs Stadium,1960,58000
+KAN05,Municipal Stadium,1960,30611
+LOS01,Los Angeles Memorial Coliseum,1960,92572
+MIL05,County Stadium,1960,43340
+NYC16,Yankee Stadium I,1960,67205
+PHI11,Connie Mack Stadium,1960,33359
+PIT06,Forbes Field,1960,35000
+SFO02,Candlestick Park,1960,43765
+STL07,Busch Stadium I,1960,30500
+WAS09,Griffith Stadium,1960,28669
+BAL11,Memorial Stadium,1959,47778
+BOS07,Fenway Park,1959,33200
+CHI10,Comiskey Park I,1959,52934
+CHI11,Wrigley Field,1959,36755
+CIN07,Crosley Field,1959,29603
+CLE07,Cleveland Stadium,1959,78189
+DET04,Briggs Stadium,1959,58000
+KAN05,Municipal Stadium,1959,30296
+LOS01,Los Angeles Memorial Coliseum,1959,92572
+MIL05,County Stadium,1959,43340
+NYC16,Yankee Stadium I,1959,67205
+PHI11,Connie Mack Stadium,1959,33166
+PIT06,Forbes Field,1959,34249
+SFO01,Seals Stadium,1959,23500
+STL07,Busch Stadium I,1959,30500
+WAS09,Griffith Stadium,1959,35000
+BAL11,Memorial Stadium,1958,47778
+BOS07,Fenway Park,1958,33200
+CHI10,Comiskey Park I,1958,52934
+CHI11,Wrigley Field,1958,36755
+CIN07,Crosley Field,1958,29603
+CLE07,Cleveland Stadium,1958,78189
+DET04,Briggs Stadium,1958,58000
+KAN05,Municipal Stadium,1958,30296
+LOS01,Los Angeles Memorial Coliseum,1958,92572
+MIL05,County Stadium,1958,43340
+NYC16,Yankee Stadium I,1958,67205
+PHI11,Connie Mack Stadium,1958,33166
+PIT06,Forbes Field,1958,34249
+SFO01,Seals Stadium,1958,22900
+STL07,Busch Stadium I,1958,30500
+WAS09,Griffith Stadium,1958,35000
+BAL11,Memorial Stadium,1957,47855
+BOS07,Fenway Park,1957,33200
+CHI10,Comiskey Park I,1957,52934
+CHI11,Wrigley Field,1957,36755
+CIN07,Crosley Field,1957,29980
+CLE07,Cleveland Stadium,1957,78189
+DET04,Briggs Stadium,1957,58000
+KAN05,Municipal Stadium,1957,30296
+MIL05,County Stadium,1957,43340
+NYC14,Polo Grounds V,1957,56000
+NYC15,Ebbets Field,1957,31902
+NYC16,Yankee Stadium I,1957,67000
+PHI11,Connie Mack Stadium,1957,33166
+PIT06,Forbes Field,1957,34249
+STL07,Busch Stadium I,1957,30500
+WAS09,Griffith Stadium,1957,35000
+BAL11,Memorial Stadium,1956,47855
+BOS07,Fenway Park,1956,33200
+CHI10,Comiskey Park I,1956,52934
+CHI11,Wrigley Field,1956,36755
+CIN07,Crosley Field,1956,29980
+CLE07,Cleveland Stadium,1956,78189
+DET04,Briggs Stadium,1956,58000
+KAN05,Municipal Stadium,1956,30296
+MIL05,County Stadium,1956,43340
+NYC14,Polo Grounds V,1956,56000
+NYC15,Ebbets Field,1956,31902
+NYC16,Yankee Stadium I,1956,67000
+PHI11,Connie Mack Stadium,1956,33166
+PIT06,Forbes Field,1956,34249
+STL07,Busch Stadium I,1956,30500
+WAS09,Griffith Stadium,1956,35000
+BAL11,Memorial Stadium,1955,47855
+BOS07,Fenway Park,1955,33200
+CHI10,Comiskey Park I,1955,52934
+CHI11,Wrigley Field,1955,36755
+CIN07,Crosley Field,1955,29980
+CLE07,Cleveland Stadium,1955,78189
+DET04,Briggs Stadium,1955,58000
+KAN05,Municipal Stadium,1955,30296
+MIL05,County Stadium,1955,43340
+NYC14,Polo Grounds V,1955,56000
+NYC15,Ebbets Field,1955,31902
+NYC16,Yankee Stadium I,1955,67000
+PHI11,Connie Mack Stadium,1955,33166
+PIT06,Forbes Field,1955,34249
+STL07,Busch Stadium I,1955,30500
+WAS09,Griffith Stadium,1955,35000
+BAL11,Memorial Stadium,1954,47855
+BOS07,Fenway Park,1954,33200
+CHI10,Comiskey Park I,1954,52934
+CHI11,Wrigley Field,1954,36755
+CIN07,Crosley Field,1954,29980
+CLE07,Cleveland Stadium,1954,78189
+DET04,Briggs Stadium,1954,58000
+MIL05,County Stadium,1954,43340
+NYC14,Polo Grounds V,1954,56000
+NYC15,Ebbets Field,1954,31902
+NYC16,Yankee Stadium I,1954,67000
+PHI11,Connie Mack Stadium,1954,33166
+PIT06,Forbes Field,1954,34249
+STL07,Busch Stadium I,1954,30500
+WAS09,Griffith Stadium,1954,35000
+BOS07,Fenway Park,1953,33200
+CHI10,Comiskey Park I,1953,52934
+CHI11,Wrigley Field,1953,36755
+CIN07,Crosley Field,1953,29980
+CLE07,Cleveland Stadium,1953,78189
+DET04,Briggs Stadium,1953,58000
+MIL05,County Stadium,1953,35911
+NYC14,Polo Grounds V,1953,56000
+NYC15,Ebbets Field,1953,31902
+NYC16,Yankee Stadium I,1953,67000
+PHI11,Shibe Park,1953,33166
+PIT06,Forbes Field,1953,34249
+STL07,Busch Stadium I,1953,34500
+WAS09,Griffith Stadium,1953,25048
+BOS07,Fenway Park,1952,33200
+BOS08,Braves Field,1952,37106
+CHI10,Comiskey Park I,1952,50000
+CHI11,Wrigley Field,1952,36755
+CIN07,Crosley Field,1952,29980
+CLE07,Cleveland Stadium,1952,78189
+DET04,Briggs Stadium,1952,58000
+NYC14,Polo Grounds V,1952,54500
+NYC15,Ebbets Field,1952,32000
+NYC16,Yankee Stadium I,1952,67000
+PHI11,Shibe Park,1952,33300
+PIT06,Forbes Field,1952,33730
+STL07,Sportsman's Park III,1952,34500
+WAS09,Griffith Stadium,1952,25048
+BOS07,Fenway Park,1951,33200
+BOS08,Braves Field,1951,37106
+CHI10,Comiskey Park I,1951,50000
+CHI11,Wrigley Field,1951,36755
+CIN07,Crosley Field,1951,30000
+CLE07,Cleveland Stadium,1951,78189
+DET04,Briggs Stadium,1951,58000
+NYC14,Polo Grounds V,1951,54500
+NYC15,Ebbets Field,1951,32000
+NYC16,Yankee Stadium I,1951,67000
+PHI11,Shibe Park,1951,32500
+PIT06,Forbes Field,1951,33730
+STL07,Sportsman's Park III,1951,34500
+WAS09,Griffith Stadium,1951,25048
+BOS07,Fenway Park,1950,33200
+BOS08,Braves Field,1950,37106
+CHI10,Comiskey Park I,1950,50000
+CHI11,Wrigley Field,1950,40000
+CIN07,Crosley Field,1950,30000
+CLE07,Cleveland Stadium,1950,78189
+DET04,Briggs Stadium,1950,58000
+NYC14,Polo Grounds V,1950,54500
+NYC15,Ebbets Field,1950,32000
+NYC16,Yankee Stadium I,1950,67000
+PHI11,Shibe Park,1950,32500
+PIT06,Forbes Field,1950,33730
+STL07,Sportsman's Park III,1950,34500
+WAS09,Griffith Stadium,1950,25048
+BOS07,Fenway Park,1949,33200
+BOS08,Braves Field,1949,37106
+CHI10,Comiskey Park I,1949,50000
+CHI11,Wrigley Field,1949,40000
+CIN07,Crosley Field,1949,30000
+CLE07,Cleveland Stadium,1949,78189
+DET04,Briggs Stadium,1949,58000
+NYC14,Polo Grounds V,1949,54500
+NYC15,Ebbets Field,1949,32000
+NYC16,Yankee Stadium I,1949,67000
+PHI11,Shibe Park,1949,32500
+PIT06,Forbes Field,1949,33730
+STL07,Sportsman's Park III,1949,34500
+WAS09,Griffith Stadium,1949,32000
+BOS07,Fenway Park,1948,33200
+BOS08,Braves Field,1948,37106
+CHI10,Comiskey Park I,1948,50000
+CHI11,Wrigley Field,1948,40000
+CIN07,Crosley Field,1948,30000
+CLE07,Cleveland Stadium,1948,78189
+DET04,Briggs Stadium,1948,58000
+NYC14,Polo Grounds V,1948,54500
+NYC15,Ebbets Field,1948,32000
+NYC16,Yankee Stadium I,1948,67000
+PHI11,Shibe Park,1948,32500
+PIT06,Forbes Field,1948,33730
+STL07,Sportsman's Park III,1948,34500
+WAS09,Griffith Stadium,1948,32000
+BOS07,Fenway Park,1947,33200
+BOS08,Braves Field,1947,36706
+CHI10,Comiskey Park I,1947,46500
+CHI11,Wrigley Field,1947,40000
+CIN07,Crosley Field,1947,33000
+CLE07,Cleveland Stadium,1947,78189
+DET04,Briggs Stadium,1947,58000
+NYC14,Polo Grounds V,1947,54500
+NYC15,Ebbets Field,1947,32000
+NYC16,Yankee Stadium I,1947,70000
+PHI11,Shibe Park,1947,32750
+PIT06,Forbes Field,1947,33730
+STL07,Sportsman's Park III,1947,34500
+WAS09,Griffith Stadium,1947,32000
+BOS07,Fenway Park,1946,33200
+BOS08,Braves Field,1946,37746
+CHI10,Comiskey Park I,1946,46500
+CHI11,Wrigley Field,1946,40000
+CIN07,Crosley Field,1946,33000
+CLE06,League Park IV,1946,22500
+CLE07,Cleveland Stadium,1946,78189
+DET04,Briggs Stadium,1946,58000
+NYC14,Polo Grounds V,1946,56000
+NYC15,Ebbets Field,1946,34000
+NYC16,Yankee Stadium I,1946,70000
+PHI11,Shibe Park,1946,33000
+PIT06,Forbes Field,1946,33467
+STL07,Sportsman's Park III,1946,34500
+WAS09,Griffith Stadium,1946,32000
+BOS07,Fenway Park,1945,33200
+BOS08,Braves Field,1945,37746
+CHI10,Comiskey Park I,1945,46500
+CHI11,Wrigley Field,1945,40000
+CIN07,Crosley Field,1945,33000
+CLE06,League Park IV,1945,22500
+CLE07,Cleveland Stadium,1945,78189
+DET04,Briggs Stadium,1945,58000
+NYC14,Polo Grounds V,1945,56000
+NYC15,Ebbets Field,1945,34000
+NYC16,Yankee Stadium I,1945,70000
+PHI11,Shibe Park,1945,33000
+PIT06,Forbes Field,1945,33467
+STL07,Sportsman's Park III,1945,30611
+WAS09,Griffith Stadium,1945,32000
+BOS07,Fenway Park,1944,33200
+BOS08,Braves Field,1944,37746
+CHI10,Comiskey Park I,1944,46500
+CHI11,Wrigley Field,1944,40000
+CIN07,Crosley Field,1944,33000
+CLE06,League Park IV,1944,22500
+CLE07,Cleveland Stadium,1944,78189
+DET04,Briggs Stadium,1944,58000
+NYC14,Polo Grounds V,1944,56000
+NYC15,Ebbets Field,1944,34000
+NYC16,Yankee Stadium I,1944,70000
+PHI11,Shibe Park,1944,33000
+PIT06,Forbes Field,1944,33467
+STL07,Sportsman's Park III,1944,30611
+WAS09,Griffith Stadium,1944,32000
+BOS07,Fenway Park,1943,33200
+BOS08,Braves Field,1943,37746
+CHI10,Comiskey Park I,1943,46500
+CHI11,Wrigley Field,1943,40000
+CIN07,Crosley Field,1943,33000
+CLE06,League Park IV,1943,22500
+CLE07,Cleveland Stadium,1943,78189
+DET04,Briggs Stadium,1943,58000
+NYC14,Polo Grounds V,1943,56000
+NYC15,Ebbets Field,1943,34000
+NYC16,Yankee Stadium I,1943,70000
+PHI11,Shibe Park,1943,33000
+PIT06,Forbes Field,1943,33467
+STL07,Sportsman's Park III,1943,30611
+WAS09,Griffith Stadium,1943,32000
+BOS07,Fenway Park,1942,33200
+BOS08,Braves Field,1942,37746
+CHI10,Comiskey Park I,1942,46500
+CHI11,Wrigley Field,1942,40000
+CIN07,Crosley Field,1942,33000
+CLE06,League Park IV,1942,22500
+CLE07,Cleveland Stadium,1942,78189
+DET04,Briggs Stadium,1942,58000
+NYC14,Polo Grounds V,1942,56000
+NYC15,Ebbets Field,1942,34000
+NYC16,Yankee Stadium I,1942,70000
+PHI11,Shibe Park,1942,33000
+PIT06,Forbes Field,1942,33467
+STL07,Sportsman's Park III,1942,30611
+WAS09,Griffith Stadium,1942,32000
+BOS07,Fenway Park,1941,33200
+BOS08,Braves Field,1941,37746
+CHI10,Comiskey Park I,1941,50000
+CHI11,Wrigley Field,1941,40000
+CIN07,Crosley Field,1941,33000
+CLE06,League Park IV,1941,22500
+CLE07,Cleveland Stadium,1941,78189
+DET04,Briggs Stadium,1941,58000
+NYC14,Polo Grounds V,1941,56000
+NYC15,Ebbets Field,1941,34219
+NYC16,Yankee Stadium I,1941,71699
+PHI11,Shibe Park,1941,33000
+PIT06,Forbes Field,1941,33537
+STL07,Sportsman's Park III,1941,30611
+WAS09,Griffith Stadium,1941,32000
+BOS07,Fenway Park,1940,33200
+BOS08,Braves Field,1940,45000
+CHI10,Comiskey Park I,1940,50000
+CHI11,Wrigley Field,1940,40000
+CIN07,Crosley Field,1940,33000
+CLE06,League Park IV,1940,22500
+CLE07,Cleveland Stadium,1940,78189
+DET04,Briggs Stadium,1940,58000
+NYC14,Polo Grounds V,1940,56000
+NYC15,Ebbets Field,1940,34219
+NYC16,Yankee Stadium I,1940,71699
+PHI11,Shibe Park,1940,33000
+PIT06,Forbes Field,1940,33537
+STL07,Sportsman's Park III,1940,30611
+WAS09,Griffith Stadium,1940,32000
+BOS07,Fenway Park,1939,33200
+BOS08,Braves Field,1939,45000
+CHI10,Comiskey Park I,1939,51000
+CHI11,Wrigley Field,1939,40000
+CIN07,Crosley Field,1939,33000
+CLE06,League Park IV,1939,22500
+CLE07,Cleveland Stadium,1939,78189
+DET04,Briggs Stadium,1939,58000
+NYC14,Polo Grounds V,1939,51856
+NYC15,Ebbets Field,1939,32000
+NYC16,Yankee Stadium I,1939,71699
+PHI11,Shibe Park,1939,33000
+PIT06,Forbes Field,1939,33537
+STL07,Sportsman's Park III,1939,30611
+WAS09,Griffith Stadium,1939,32000
+BOS07,Fenway Park,1938,33200
+BOS08,Braves Field,1938,41700
+CHI10,Comiskey Park I,1938,50000
+CHI11,Wrigley Field,1938,40000
+CIN07,Crosley Field,1938,33000
+CLE06,League Park IV,1938,21400
+CLE07,Cleveland Stadium,1938,78189
+DET04,Briggs Stadium,1938,58000
+NYC14,Polo Grounds V,1938,51856
+NYC15,Ebbets Field,1938,32000
+NYC16,Yankee Stadium I,1938,71699
+PHI09,Baker Bowl,1938,18000
+PHI11,Shibe Park,1938,33000
+PIT06,Forbes Field,1938,40000
+STL07,Sportsman's Park III,1938,30611
+WAS09,Griffith Stadium,1938,32000
+BOS07,Fenway Park,1937,33200
+BOS08,Braves Field,1937,41700
+CHI10,Comiskey Park I,1937,52000
+CHI11,Wrigley Field,1937,40000
+CIN07,Crosley Field,1937,29448
+CLE06,League Park IV,1937,21400
+CLE07,Cleveland Stadium,1937,78189
+DET04,Navin Field,1937,42000
+NYC14,Polo Grounds V,1937,51856
+NYC15,Ebbets Field,1937,35000
+NYC16,Yankee Stadium I,1937,71699
+PHI09,Baker Bowl,1937,18800
+PHI11,Shibe Park,1937,33000
+PIT06,Forbes Field,1937,41000
+STL07,Sportsman's Park III,1937,30611
+WAS09,Griffith Stadium,1937,32000
+BOS07,Fenway Park,1936,33200
+BOS08,Braves Field,1936,46500
+CHI10,Comiskey Park I,1936,52000
+CHI11,Wrigley Field,1936,40000
+CIN07,Crosley Field,1936,29448
+CLE06,League Park IV,1936,21400
+CLE07,Cleveland Stadium,1936,78189
+DET04,Navin Field,1936,42000
+NYC14,Polo Grounds V,1936,56000
+NYC15,Ebbets Field,1936,28000
+NYC16,Yankee Stadium I,1936,62000
+PHI09,Baker Bowl,1936,18800
+PHI11,Shibe Park,1936,33000
+PIT06,Forbes Field,1936,41000
+STL07,Sportsman's Park III,1936,30611
+WAS09,Griffith Stadium,1936,32000
+BOS07,Fenway Park,1935,33200
+BOS08,Braves Field,1935,46500
+CHI10,Comiskey Park I,1935,52000
+CHI11,Wrigley Field,1935,40000
+CIN07,Crosley Field,1935,29448
+CLE06,League Park IV,1935,21400
+DET04,Navin Field,1935,36000
+NYC14,Polo Grounds V,1935,56000
+NYC15,Ebbets Field,1935,28000
+NYC16,Yankee Stadium I,1935,62000
+PHI09,Baker Bowl,1935,18800
+PHI11,Shibe Park,1935,33000
+PIT06,Forbes Field,1935,41000
+STL07,Sportsman's Park III,1935,30611
+WAS09,Griffith Stadium,1935,32000
+BOS07,Fenway Park,1934,33200
+BOS08,Braves Field,1934,46500
+CHI10,Comiskey Park I,1934,52000
+CHI11,Wrigley Field,1934,40000
+CIN07,Crosley Field,1934,29448
+CLE06,League Park IV,1934,21400
+DET04,Navin Field,1934,36000
+NYC14,Polo Grounds V,1934,56000
+NYC15,Ebbets Field,1934,28000
+NYC16,Yankee Stadium I,1934,62000
+PHI09,Baker Bowl,1934,18800
+PHI11,Shibe Park,1934,33000
+PIT06,Forbes Field,1934,41000
+STL07,Sportsman's Park III,1934,30611
+WAS09,Griffith Stadium,1934,32000
+BOS07,Fenway Park,1933,28000
+BOS08,Braves Field,1933,46500
+CHI10,Comiskey Park I,1933,52000
+CHI11,Wrigley Field,1933,40000
+CIN07,Redland Field,1933,29448
+CLE07,Cleveland Stadium,1933,78189
+DET04,Navin Field,1933,30000
+NYC14,Polo Grounds V,1933,56000
+NYC15,Ebbets Field,1933,28000
+NYC16,Yankee Stadium I,1933,62000
+PHI09,Baker Bowl,1933,18800
+PHI11,Shibe Park,1933,33000
+PIT06,Forbes Field,1933,41000
+STL07,Sportsman's Park III,1933,30611
+WAS09,Griffith Stadium,1933,32000
+BOS07,Fenway Park,1932,28000
+BOS08,Braves Field,1932,46500
+CHI10,Comiskey Park I,1932,52000
+CHI11,Wrigley Field,1932,40000
+CIN07,Redland Field,1932,29448
+CLE06,League Park IV,1932,21400
+CLE07,Cleveland Stadium,1932,78189
+DET04,Navin Field,1932,30000
+NYC14,Polo Grounds V,1932,56000
+NYC15,Ebbets Field,1932,28000
+NYC16,Yankee Stadium I,1932,62000
+PHI09,Baker Bowl,1932,18800
+PHI11,Shibe Park,1932,33000
+PIT06,Forbes Field,1932,41000
+STL07,Sportsman's Park III,1932,30611
+WAS09,Griffith Stadium,1932,32000
+BOS07,Fenway Park,1931,28000
+BOS08,Braves Field,1931,46500
+CHI10,Comiskey Park I,1931,52000
+CHI11,Wrigley Field,1931,40000
+CIN07,Redland Field,1931,29448
+CLE06,League Park IV,1931,21400
+DET04,Navin Field,1931,30000
+NYC14,Polo Grounds V,1931,56000
+NYC15,Ebbets Field,1931,28000
+NYC16,Yankee Stadium I,1931,62000
+PHI09,Baker Bowl,1931,18800
+PHI11,Shibe Park,1931,33000
+PIT06,Forbes Field,1931,41000
+STL07,Sportsman's Park III,1931,30611
+WAS09,Griffith Stadium,1931,32000
+BOS07,Fenway Park,1930,28000
+BOS08,Braves Field,1930,46500
+CHI10,Comiskey Park I,1930,52000
+CHI11,Wrigley Field,1930,40000
+CIN07,Redland Field,1930,29448
+CLE06,League Park IV,1930,21400
+DET04,Navin Field,1930,30000
+NYC14,Polo Grounds V,1930,56000
+NYC15,Ebbets Field,1930,28000
+NYC16,Yankee Stadium I,1930,62000
+PHI09,Baker Bowl,1930,18800
+PHI11,Shibe Park,1930,33000
+PIT06,Forbes Field,1930,41000
+STL07,Sportsman's Park III,1930,30611
+WAS09,Griffith Stadium,1930,32000
+BOS07,Fenway Park,1929,28000
+BOS08,Braves Field,1929,46500
+CHI10,Comiskey Park I,1929,52000
+CHI11,Wrigley Field,1929,40000
+CIN07,Redland Field,1929,29448
+CLE06,League Park IV,1929,21400
+DET04,Navin Field,1929,30000
+NYC14,Polo Grounds V,1929,55000
+NYC15,Ebbets Field,1929,28000
+NYC16,Yankee Stadium I,1929,67113
+PHI09,Baker Bowl,1929,20000
+PHI11,Shibe Park,1929,30000
+PIT06,Forbes Field,1929,41000
+STL07,Sportsman's Park III,1929,30611
+WAS09,Griffith Stadium,1929,32000
+BOS07,Fenway Park,1928,28000
+BOS08,Braves Field,1928,46500
+CHI10,Comiskey Park I,1928,52000
+CHI11,Wrigley Field,1928,40000
+CIN07,Redland Field,1928,29448
+CLE06,League Park IV,1928,21400
+DET04,Navin Field,1928,30000
+NYC14,Polo Grounds V,1928,55000
+NYC15,Ebbets Field,1928,28000
+NYC16,Yankee Stadium I,1928,82000
+PHI09,Baker Bowl,1928,18000
+PHI11,Shibe Park,1928,27500
+PIT06,Forbes Field,1928,41000
+STL07,Sportsman's Park III,1928,30611
+WAS09,Griffith Stadium,1928,32000
+BOS07,Fenway Park,1927,28000
+BOS08,Braves Field,1927,45000
+CHI10,Comiskey Park I,1927,52000
+CHI11,Wrigley Field,1927,38396
+CIN07,Redland Field,1927,29448
+CLE06,Dunn Field,1927,21400
+DET04,Navin Field,1927,30000
+NYC14,Polo Grounds V,1927,55000
+NYC15,Ebbets Field,1927,28000
+NYC16,Yankee Stadium I,1927,62000
+PHI09,Baker Bowl,1927,18000
+PHI11,Shibe Park,1927,27500
+PIT06,Forbes Field,1927,41000
+STL07,Sportsman's Park III,1927,30611
+WAS09,Griffith Stadium,1927,32000
+BOS07,Fenway Park,1926,28000
+BOS08,Braves Field,1926,45000
+CHI10,Comiskey Park I,1926,38000
+CHI11,Cubs Park,1926,38000
+CIN07,Redland Field,1926,25000
+CLE06,Dunn Field,1926,21400
+DET04,Navin Field,1926,30000
+NYC14,Polo Grounds V,1926,55000
+NYC15,Ebbets Field,1926,28000
+NYC16,Yankee Stadium I,1926,58000
+PHI09,Baker Bowl,1926,18000
+PHI11,Shibe Park,1926,27500
+PIT06,Forbes Field,1926,41000
+STL07,Sportsman's Park III,1926,30611
+WAS09,Griffith Stadium,1926,32000
+BOS07,Fenway Park,1925,24000
+BOS08,Braves Field,1925,45000
+CHI10,Comiskey Park I,1925,38000
+CHI11,Cubs Park,1925,32000
+CIN07,Redland Field,1925,25000
+CLE06,Dunn Field,1925,21400
+DET04,Navin Field,1925,30000
+NYC14,Polo Grounds V,1925,43000
+NYC15,Ebbets Field,1925,26000
+NYC16,Yankee Stadium I,1925,58000
+PHI09,Baker Bowl,1925,18000
+PHI11,Shibe Park,1925,33500
+PIT06,Forbes Field,1925,41000
+STL07,Sportsman's Park III,1925,25500
+WAS09,Griffith Stadium,1925,32000
+BOS07,Fenway Park,1924,24000
+BOS08,Braves Field,1924,45000
+CHI10,Comiskey Park I,1924,38000
+CHI11,Cubs Park,1924,32000
+CIN07,Redland Field,1924,25000
+CLE06,Dunn Field,1924,21400
+DET04,Navin Field,1924,30000
+NYC14,Polo Grounds V,1924,43000
+NYC15,Ebbets Field,1924,26000
+NYC16,Yankee Stadium I,1924,58000
+PHI09,Baker Bowl,1924,18000
+PHI11,Shibe Park,1924,20000
+PIT06,Forbes Field,1924,25000
+STL07,Sportsman's Park III,1924,25500
+WAS09,Griffith Stadium,1924,32000
+BOS07,Fenway Park,1923,24000
+BOS08,Braves Field,1923,45000
+CHI10,Comiskey Park I,1923,38000
+CHI11,Cubs Park,1923,32000
+CIN07,Redland Field,1923,25000
+CLE06,Dunn Field,1923,21400
+DET04,Navin Field,1923,23000
+NYC14,Polo Grounds V,1923,43000
+NYC15,Ebbets Field,1923,24000
+NYC16,Yankee Stadium I,1923,58000
+PHI09,Baker Bowl,1923,18000
+PHI11,Shibe Park,1923,20000
+PIT06,Forbes Field,1923,25000
+STL07,Sportsman's Park III,1923,25500
+WAS09,Griffith Stadium,1923,32000
+BOS07,Fenway Park,1922,24000
+BOS08,Braves Field,1922,45000
+CHI10,Comiskey Park I,1922,38000
+CHI11,Cubs Park,1922,20000
+CIN07,Redland Field,1922,25000
+CLE06,Dunn Field,1922,21400
+DET04,Navin Field,1922,23000
+NYC14,Polo Grounds V,1922,38000
+NYC15,Ebbets Field,1922,24000
+PHI09,Baker Bowl,1922,18000
+PHI11,Shibe Park,1922,20000
+PIT06,Forbes Field,1922,25000
+STL07,Sportsman's Park III,1922,25500
+WAS09,Clark Griffith Stadium,1922,32000
+BOS07,Fenway Park,1921,24000
+BOS08,Braves Field,1921,45000
+CHI10,Comiskey Park I,1921,38000
+CHI11,Cubs Park,1921,18000
+CIN07,Redland Field,1921,25000
+CLE06,Dunn Field,1921,21400
+DET04,Navin Field,1921,23000
+NYC14,Polo Grounds V,1921,38000
+NYC15,Ebbets Field,1921,24000
+PHI09,Baker Bowl,1921,18000
+PHI11,Shibe Park,1921,20000
+PIT06,Forbes Field,1921,25000
+STL07,Sportsman's Park III,1921,25500
+WAS09,National Park,1921,32000
+BOS07,Fenway Park,1920,24000
+BOS08,Braves Field,1920,45000
+CHI10,Comiskey Park I,1920,38000
+CHI11,Cubs Park,1920,18000
+CIN07,Redland Field,1920,25000
+CLE06,Dunn Field,1920,21400
+DET04,Navin Field,1920,23000
+NYC14,Polo Grounds V,1920,38000
+NYC15,Ebbets Field,1920,24000
+PHI09,Baker Bowl,1920,18000
+PHI11,Shibe Park,1920,20000
+PIT06,Forbes Field,1920,25000
+STL05,Cardinal Field,1920,20000
+STL07,Sportsman's Park III,1920,25500
+WAS09,National Park,1920,27410
+BOS07,Fenway Park,1919,24000
+BOS08,Braves Field,1919,45000
+CHI10,Comiskey Park I,1919,38000
+CHI11,Cubs Park,1919,18000
+CIN07,Redland Field,1919,25000
+CLE06,Dunn Field,1919,21400
+DET04,Navin Field,1919,23000
+NYC14,Brush Stadium,1919,36000
+NYC15,Ebbets Field,1919,24000
+PHI09,Baker Bowl,1919,18300
+PHI11,Shibe Park,1919,26000
+PIT06,Forbes Field,1919,25000
+STL05,Cardinal Field,1919,20000
+STL07,Sportsman's Park III,1919,25500
+WAS09,National Park,1919,27410
+BOS07,Fenway Park,1918,24000
+BOS08,Braves Field,1918,45000
+CHI10,Comiskey Park I,1918,38000
+CHI11,Weeghman Park,1918,18000
+CIN07,Redland Field,1918,25000
+CLE06,Dunn Field,1918,21400
+DET04,Navin Field,1918,23000
+NYC14,Brush Stadium,1918,36000
+NYC15,Ebbets Field,1918,24000
+PHI09,Baker Bowl,1918,18300
+PHI11,Shibe Park,1918,26000
+PIT06,Forbes Field,1918,25000
+STL05,Cardinal Field,1918,20000
+STL07,Sportsman's Park III,1918,25500
+WAS09,National Park,1918,27410
+BOS07,Fenway Park,1917,24000
+BOS08,Braves Field,1917,45000
+CHI10,Comiskey Park I,1917,35000
+CHI11,Weeghman Park,1917,18000
+CIN07,Redland Field,1917,25000
+CLE06,Dunn Field,1917,21400
+DET04,Navin Field,1917,23000
+NYC14,Brush Stadium,1917,36000
+NYC15,Ebbets Field,1917,24000
+PHI09,Baker Bowl,1917,18800
+PHI11,Shibe Park,1917,26000
+PIT06,Forbes Field,1917,25000
+STL05,Robison Field,1917,20000
+STL07,Sportsman's Park III,1917,25500
+WAS09,National Park,1917,27410
+BOS07,Fenway Park,1916,24000
+BOS08,Braves Field,1916,45000
+CHI10,Comiskey Park I,1916,35000
+CHI11,Weeghman Park,1916,18000
+CIN07,Redland Field,1916,25000
+CLE06,Dunn Field,1916,21400
+DET04,Navin Field,1916,23000
+NYC14,Brush Stadium,1916,34000
+NYC15,Ebbets Field,1916,24000
+PHI09,Baker Bowl,1916,18800
+PHI11,Shibe Park,1916,26000
+PIT06,Forbes Field,1916,25000
+STL05,Robison Field,1916,20000
+STL07,Sportsman's Park III,1916,25500
+WAS09,National Park,1916,27410
+BOS07,Fenway Park,1915,24000
+BOS08,Braves Field,1915,45000
+CHI08,West Side Grounds,1915,16000
+CHI10,Comiskey Park I,1915,35000
+CHI11,Weeghman Park,1915,18000
+CIN07,Redland Field,1915,25000
+CLE06,Somers Park,1915,21400
+DET04,Navin Field,1915,23000
+NYC14,Brush Stadium,1915,34000
+NYC15,Ebbets Field,1915,24000
+NYC19,Washington Park IV,1915,18800
+PHI09,Baker Bowl,1915,18800
+PHI11,Shibe Park,1915,26000
+PIT05,Exposition Park III,1915,16000
+PIT06,Forbes Field,1915,25000
+STL05,Robison Field,1915,20000
+STL07,Sportsman's Park III,1915,25500
+WAS09,National Park,1915,27410
+BOS05,South End Grounds III,1914,11000
+BOS07,Fenway Park,1914,24000
+CHI08,West Side Grounds,1914,16000
+CHI10,Comiskey Park I,1914,35000
+CHI11,Weeghman Park,1914,14000
+CIN07,Redland Field,1914,25000
+CLE06,Somers Park,1914,21400
+DET04,Navin Field,1914,23000
+NYC14,Brush Stadium,1914,34000
+NYC15,Ebbets Field,1914,24000
+NYC19,Washington Park IV,1914,18800
+PHI09,Baker Bowl,1914,18800
+PHI11,Shibe Park,1914,26000
+PIT05,Exposition Park III,1914,16000
+PIT06,Forbes Field,1914,24000
+STL05,Robison Field,1914,20000
+STL07,Sportsman's Park III,1914,25500
+WAS09,National Park,1914,27410
+BOS05,South End Grounds III,1913,11000
+BOS07,Fenway Park,1913,24000
+CHI08,West Side Grounds,1913,16000
+CHI10,Comiskey Park I,1913,35000
+CIN07,Redland Field,1913,25000
+CLE06,Somers Park,1913,21400
+DET04,Navin Field,1913,23000
+NYC14,Brush Stadium,1913,34000
+NYC15,Ebbets Field,1913,24000
+PHI09,Baker Bowl,1913,17000
+PHI11,Shibe Park,1913,26000
+PIT06,Forbes Field,1913,24000
+STL05,Robison Field,1913,20000
+STL07,Sportsman's Park III,1913,25500
+WAS09,National Park,1913,27410
+BOS05,South End Grounds III,1912,11000
+BOS07,Fenway Park,1912,24000
+CHI08,West Side Grounds,1912,16000
+CHI10,White Sox Park II,1912,35000
+CIN07,Redland Field,1912,25000
+CLE06,Somers Park,1912,21400
+DET04,Navin Field,1912,23000
+NYC12,Washington Park III,1912,16000
+NYC13,Hilltop Park,1912,17000
+NYC14,Brush Stadium,1912,34000
+PHI09,National League Park,1912,17000
+PHI11,Shibe Park,1912,23000
+PIT06,Forbes Field,1912,24000
+STL05,Robison Field,1912,20000
+STL07,Sportsman's Park III,1912,25500
+WAS09,National Park,1912,27410
+BOS05,South End Grounds III,1911,9800
+BOS06,Huntington Avenue Baseball Grounds,1911,14000
+CHI08,West Side Grounds,1911,16000
+CHI10,White Sox Park II,1911,35000
+CIN06,Palace of the Fans,1911,12000
+CLE06,Somers Park,1911,21400
+DET02,Bennett Park,1911,14000
+NYC10,Polo Grounds IV,1911,16000
+NYC12,Washington Park III,1911,14000
+NYC13,Hilltop Park,1911,17000
+NYC14,Brush Stadium,1911,26000
+PHI09,National League Park,1911,17000
+PHI11,Shibe Park,1911,23000
+PIT06,Forbes Field,1911,24000
+STL05,League Park,1911,20000
+STL07,Sportsman's Park III,1911,25500
+WAS09,National Park,1911,10500
+BOS05,South End Grounds III,1910,9800
+BOS06,Huntington Avenue Baseball Grounds,1910,14000
+CHI08,West Side Grounds,1910,16000
+CHI09,South Side Park III,1910,15000
+CHI10,White Sox Park II,1910,35000
+CIN06,Palace of the Fans,1910,12000
+CLE06,Somers Park,1910,21400
+DET02,Bennett Park,1910,14000
+NYC10,Polo Grounds IV,1910,16000
+NYC12,Washington Park III,1910,14000
+NYC13,Hilltop Park,1910,15000
+PHI09,National League Park,1910,17000
+PHI11,Shibe Park,1910,23000
+PIT06,Forbes Field,1910,24000
+STL05,League Park,1910,20000
+STL07,Sportsman's Park III,1910,24040
+WAS08,American League Park II,1910,9000
+BOS05,South End Grounds III,1909,9800
+BOS06,Huntington Avenue Baseball Grounds,1909,14000
+CHI08,West Side Grounds,1909,16000
+CHI09,South Side Park III,1909,15000
+CIN06,Palace of the Fans,1909,12000
+CLE05,League Park III,1909,11600
+DET02,Bennett Park,1909,10500
+NYC10,Polo Grounds IV,1909,16000
+NYC12,Washington Park III,1909,14000
+NYC13,Hilltop Park,1909,15000
+PHI09,National League Park,1909,14000
+PHI11,Shibe Park,1909,23000
+PIT05,Exposition Park III,1909,6500
+PIT06,Forbes Field,1909,23000
+STL05,League Park,1909,20000
+STL07,Sportsman's Park III,1909,24040
+WAS08,American League Park II,1909,9000
+BOS05,South End Grounds III,1908,9800
+BOS06,Huntington Avenue Baseball Grounds,1908,12500
+CHI08,West Side Grounds,1908,16000
+CHI09,South Side Park III,1908,15000
+CIN06,Palace of the Fans,1908,12000
+CLE05,League Park III,1908,12600
+DET02,Bennett Park,1908,10500
+NYC10,Polo Grounds IV,1908,16000
+NYC12,Washington Park III,1908,14000
+NYC13,Hilltop Park,1908,15000
+PHI09,National League Park,1908,14000
+PHI10,Columbia Park,1908,13600
+PIT05,Exposition Park III,1908,6500
+STL05,League Park,1908,15000
+STL06,Sportsman's Park II,1908,17000
+WAS08,American League Park II,1908,9000
+BOS05,South End Grounds III,1907,6600
+BOS06,Huntington Avenue Baseball Grounds,1907,12500
+CHI08,West Side Grounds,1907,14200
+CHI09,South Side Park III,1907,15000
+CIN06,Palace of the Fans,1907,12000
+CLE05,League Park III,1907,11600
+DET02,Bennett Park,1907,8500
+NYC10,Polo Grounds IV,1907,16000
+NYC12,Washington Park III,1907,12000
+NYC13,Hilltop Park,1907,15000
+PHI09,National League Park,1907,14000
+PHI10,Columbia Park,1907,13600
+PIT05,Exposition Park III,1907,6500
+STL05,League Park,1907,15000
+STL06,Sportsman's Park II,1907,17000
+WAS08,American League Park II,1907,9000
+BOS05,South End Grounds III,1906,6600
+BOS06,Huntington Avenue Baseball Grounds,1906,12500
+CHI08,West Side Grounds,1906,14200
+CHI09,South Side Park III,1906,14000
+CIN06,Palace of the Fans,1906,12000
+CLE05,League Park III,1906,11600
+DET02,Bennett Park,1906,8500
+NYC10,Polo Grounds IV,1906,16000
+NYC12,Washington Park III,1906,12000
+NYC13,Hilltop Park,1906,15000
+PHI09,National League Park,1906,14000
+PHI10,Columbia Park,1906,13600
+PIT05,Exposition Park III,1906,6500
+STL05,League Park,1906,15000
+STL06,Sportsman's Park II,1906,15000
+WAS08,American League Park II,1906,9000
+BOS05,South End Grounds III,1905,6600
+BOS06,Huntington Avenue Baseball Grounds,1905,12500
+CHI08,West Side Grounds,1905,14200
+CHI09,South Side Park III,1905,14000
+CIN06,Palace of the Fans,1905,12000
+CLE05,League Park III,1905,11600
+DET02,Bennett Park,1905,8500
+NYC10,Polo Grounds IV,1905,16000
+NYC12,Washington Park III,1905,12000
+NYC13,Hilltop Park,1905,15000
+PHI09,National League Park,1905,14000
+PHI10,Columbia Park,1905,13600
+PIT05,Exposition Park III,1905,6500
+STL05,League Park,1905,15000
+STL06,Sportsman's Park II,1905,15000
+WAS08,American League Park II,1905,9000
+BOS05,South End Grounds III,1904,6600
+BOS06,Huntington Avenue Baseball Grounds,1904,9000
+CHI08,West Side Grounds,1904,13000
+CHI09,South Side Park III,1904,14000
+CIN06,Palace of the Fans,1904,12000
+CLE05,League Park III,1904,11200
+DET02,Bennett Park,1904,8500
+NYC10,Polo Grounds IV,1904,16000
+NYC12,Washington Park III,1904,12000
+NYC13,Hilltop Park,1904,15000
+PHI09,National League Park,1904,14000
+PHI10,Columbia Park,1904,10000
+PIT05,Exposition Park III,1904,6500
+STL05,League Park,1904,15000
+STL06,Sportsman's Park II,1904,15000
+WAS08,American League Park II,1904,7000
+BOS05,South End Grounds III,1903,6600
+BOS06,Huntington Avenue Baseball Grounds,1903,9000
+CHI08,West Side Grounds,1903,13000
+CHI09,South Side Park III,1903,14000
+CIN06,Palace of the Fans,1903,12000
+CLE05,League Park III,1903,11200
+DET02,Bennett Park,1903,8500
+NYC10,Polo Grounds IV,1903,16000
+NYC12,Washington Park III,1903,12000
+NYC13,Hilltop Park,1903,15000
+PHI09,National League Park,1903,14000
+PHI10,Columbia Park,1903,10000
+PIT05,Exposition Park III,1903,6500
+STL05,League Park,1903,15000
+STL06,Sportsman's Park II,1903,15000
+WAR01,Rocky Point Park,1903,10000
+WAS07,American League Park I,1903,7000
+BOS05,South End Grounds III,1902,6600
+BOS06,Huntington Avenue Baseball Grounds,1902,9000
+CHI08,West Side Grounds,1902,13000
+CHI09,South Side Park III,1902,14000
+CIN06,Palace of the Fans,1902,12000
+CLE05,League Park III,1902,9000
+DET02,Bennett Park,1902,8500
+DET03,Burns Park,1902,6500
+NYC10,Polo Grounds IV,1902,16000
+NYC12,Washington Park III,1902,12000
+PHI09,National League Park,1902,14000
+PHI10,Columbia Park,1902,9500
+PIT05,Exposition Park III,1902,6500
+STL05,League Park,1902,15000
+STL06,Sportsman's Park II,1902,15000
+WAS07,American League Park I,1902,7000
+BOS05,South End Grounds III,1901,6600
+BOS06,Huntington Avenue Baseball Grounds,1901,9000
+CHI08,West Side Grounds,1901,13000
+CHI09,South Side Park III,1901,12500
+CIN05,League Park II,1901,9000
+CLE05,League Park III,1901,9000
+DET02,Bennett Park,1901,8500
+DET03,Burns Park,1901,6000
+MIL04,Lloyd Street Grounds,1901,10000
+NYC10,Polo Grounds IV,1901,16000
+NYC12,Washington Park III,1901,12000
+PHI09,National League Park,1901,14000
+PHI10,Columbia Park,1901,9500
+PIT05,Exposition Park III,1901,6500
+STL05,League Park,1901,15000
+WAS07,American League Park I,1901,7000
+BOS05,South End Grounds III,1900,6600
+CHI08,West Side Grounds,1900,13000
+CIN05,League Park II,1900,7000
+NYC10,Polo Grounds IV,1900,16000
+NYC12,Washington Park III,1900,12000
+PHI09,National League Park,1900,14000
+PIT05,Exposition Park III,1900,6500
+STL05,League Park,1900,15000
+BAL07,Oriole Park III,1899,11000
+BOS05,South End Grounds III,1899,6600
+CHI08,West Side Grounds,1899,13000
+CIN05,League Park II,1899,7000
+CLE05,League Park III,1899,9000
+NYC10,Polo Grounds IV,1899,16000
+NYC12,Washington Park III,1899,12000
+PHI09,National League Park,1899,14000
+PIT05,Exposition Park III,1899,6500
+STL05,League Park,1899,15000
+WAS06,Boundary Field,1899,6500
+BAL07,Oriole Park III,1898,11000
+BOS05,South End Grounds III,1898,6600
+CHI08,West Side Grounds,1898,13000
+CIN05,League Park II,1898,7000
+CLE05,League Park III,1898,9000
+NYC10,Polo Grounds IV,1898,16000
+NYC12,Washington Park III,1898,12000
+PHI09,National League Park,1898,14000
+PIT05,Exposition Park III,1898,6500
+STL05,League Park,1898,5500
+WAS06,Boundary Field,1898,6500
+BAL07,Oriole Park III,1897,11000
+BOS05,South End Grounds III,1897,6600
+CHI08,West Side Grounds,1897,13000
+CIN05,League Park II,1897,7000
+CLE05,League Park III,1897,9000
+NYC10,Polo Grounds IV,1897,16000
+PHI09,National League Park,1897,14000
+PIT05,Exposition Park III,1897,6500
+STL05,Robison Field,1897,5500
+WAS06,Boundary Field,1897,6500
+BAL07,Oriole Park III,1896,6500
+BOS05,South End Grounds III,1896,6600
+CHI08,West Side Grounds,1896,13000
+CIN05,League Park II,1896,7000
+CLE05,League Park III,1896,9000
+NYC10,Polo Grounds IV,1896,16000
+PHI09,Huntingdon Street Grounds,1896,14000
+PIT05,Exposition Park III,1896,6500
+STL05,Robison Field,1896,5500
+WAS06,Boundary Field,1896,6500
+BAL07,Oriole Park III,1895,6500
+BOS05,South End Grounds III,1895,6600
+CHI08,West Side Grounds,1895,13000
+CIN05,League Park II,1895,7000
+CLE05,League Park III,1895,9000
+NYC10,Polo Grounds IV,1895,16000
+PHI09,Huntingdon Street Grounds,1895,14000
+PIT05,Exposition Park III,1895,6500
+STL05,Robison Field,1895,5500
+WAS06,Boundary Field,1895,6500
+BAL07,Oriole Park III,1894,6000
+BOS03,South End Grounds II,1894,8500
+BOS05,South End Grounds III,1894,5000
+CHI08,West Side Grounds,1894,13000
+CIN05,League Park II,1894,7000
+CLE05,League Park III,1894,9000
+NYC10,Polo Grounds IV,1894,16000
+PHI06,Huntingdon Grounds I,1894,15000
+PIT05,Exposition Park III,1894,6500
+STL05,Robison Field,1894,5500
+WAS06,Boundary Field,1894,6500
+BAL07,Oriole Park III,1893,6000
+BOS03,South End Grounds II,1893,8500
+CHI08,West Side Grounds,1893,13000
+CLE05,League Park III,1893,9000
+NYC10,Polo Grounds IV,1893,16000
+PHI06,Huntingdon Grounds I,1893,15000
+PIT05,Exposition Park III,1893,6500
+STL05,Robison Field,1893,5500
+WAS06,Boundary Field,1893,6500
+BAL07,Oriole Park III,1892,6000
+BOS03,South End Grounds II,1892,6800
+CLE05,League Park III,1892,9000
+NYC10,Polo Grounds IV,1892,16000
+PHI06,Huntingdon Grounds I,1892,15000
+PIT05,Exposition Park III,1892,6500
+STL03,Sportsman's Park I,1892,12000
+WAS06,Boundary Field,1892,6500
+BAL07,Oriole Park III,1891,6000
+BOS03,South End Grounds II,1891,6800
+CLE05,League Park III,1891,9000
+COL02,Recreation Park II,1891,6500
+MIL03,Borchert Field,1891,10000
+NYC10,Polo Grounds IV,1891,16000
+PHI06,Huntingdon Grounds I,1891,15000
+PIT05,Exposition Park III,1891,6500
+STL03,Sportsman's Park I,1891,12000
+WAS06,Boundary Field,1891,6500
+BOS03,South End Grounds II,1890,6800
+CHI06,West Side Park,1890,6000
+COL02,Recreation Park II,1890,6500
+NYC08,Washington Park II,1890,3000
+NYC09,Polo Grounds III,1890,15000
+NYC10,Polo Grounds IV,1890,16000
+PHI06,Huntingdon Grounds I,1890,15000
+PIT04,Recreation Park,1890,17000
+PIT05,Exposition Park III,1890,6500
+STL03,Sportsman's Park I,1890,12000
+BAL03,Oriole Park I,1889,5000
+BOS03,South End Grounds II,1889,6800
+CHI06,West Side Park,1889,6000
+COL02,Recreation Park II,1889,6500
+NYC05,Washington Park I,1889,3000
+NYC08,Washington Park II,1889,3000
+NYC09,Polo Grounds III,1889,15000
+PHI06,Huntingdon Grounds I,1889,15000
+PIT04,Recreation Park,1889,17000
+STL03,Sportsman's Park I,1889,12000
+WAS05,Swampoodle Grounds,1889,6000
+BAL03,Oriole Park I,1888,5000
+BOS03,South End Grounds II,1888,6800
+CHI06,West Side Park,1888,6000
+NYC03,Polo Grounds I (Southeast Diamond),1888,20709
+NYC05,Washington Park I,1888,3000
+PHI06,Huntingdon Grounds I,1888,15000
+PIT04,Recreation Park,1888,17000
+STL03,Sportsman's Park I,1888,12000
+WAS05,Swampoodle Grounds,1888,6000
+BAL03,Oriole Park I,1887,5000
+CHI06,West Side Park,1887,6000
+NYC03,Polo Grounds I (Southeast Diamond),1887,20709
+NYC05,Washington Park I,1887,3000
+PHI06,Huntingdon Grounds I,1887,12500
+PIT04,Recreation Park,1887,17000
+STL03,Sportsman's Park I,1887,12000
+WAS05,Swampoodle Grounds,1887,6000
+BAL03,Oriole Park I,1886,5000
+CHI06,West Side Park,1886,6000
+NYC03,Polo Grounds I (Southeast Diamond),1886,20709
+NYC05,Washington Park I,1886,3000
+PIT04,Recreation Park,1886,17000
+STL03,Sportsman's Park I,1886,12000
+STL04,Palace Park of America,1886,10000
+WAS05,Swampoodle Grounds,1886,6000
+BAL03,Oriole Park I,1885,5000
+BUF02,Olympic Park I,1885,5000
+CHI06,West Side Park,1885,6000
+NYC03,Polo Grounds I (Southeast Diamond),1885,20709
+NYC05,Washington Park I,1885,3000
+PIT04,Recreation Park,1885,17000
+STL03,Sportsman's Park I,1885,6000
+STL04,Palace Park of America,1885,10000
+BAL03,Oriole Park I,1884,5000
+BOS02,Dartmouth Grounds,1884,4000
+BUF02,Olympic Park I,1884,5000
+CHI04,Lake Front Park III,1884,10000
+COL01,Recreation Park I,1884,6500
+NYC03,Polo Grounds I (Southeast Diamond),1884,20709
+NYC05,Washington Park I,1884,3000
+PIT04,Recreation Park,1884,17000
+STL03,Sportsman's Park I,1884,6000
+STL04,Palace Park of America,1884,10000
+WAS04,Athletic Park,1884,6000
+BAL03,Oriole Park I,1883,5000
+CHI04,Lake Front Park III,1883,10000
+COL01,Recreation Park I,1883,6500
+NYC03,Polo Grounds I (Southeast Diamond),1883,20709
+STL03,Sportsman's Park I,1883,6000
+CHI03,White Stocking Park,1882,5000
+STL03,Sportsman's Park I,1882,6000
+CHI03,White Stocking Park,1881,5000
+CHI03,White Stocking Park,1880,5000
+CHI03,White Stocking Park,1879,5000
+CHI03,White Stocking Park,1878,5000
+MIL01,Milwaukee Base-Ball Grounds,1878,4000
+NYC01,Union Grounds,1878,1500
+PIT01,Union Park,1878,2500
+NYC01,Union Grounds,1877,1500
+NYC01,Union Grounds,1876,1500
+NYC01,Union Grounds,1875,1500
+STL01,Red Stocking Base-Ball Park,1875,3000
+WAS01,Olympic Grounds,1875,500
+NYC01,Union Grounds,1874,1500
+NYC01,Union Grounds,1873,1500
+WAS01,Olympic Grounds,1873,500
+NYC01,Union Grounds,1872,1500
+WAS01,Olympic Grounds,1872,500
+CHI01,White Stocking Grounds,1871,7000
+NYC01,Union Grounds,1871,1500
+WAS01,Olympic Grounds,1871,500
