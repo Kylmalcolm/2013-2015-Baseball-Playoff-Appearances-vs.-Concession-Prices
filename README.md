@@ -23,10 +23,10 @@ We used the psycopg2 package and utilized database.ini file to store all SQL tab
 <b> In regards to our hypothesis, we did not see a clear connection between beer prices/concessions and winning or losing teams. It seems there are more factors involved. 
 Some points to note and lessons we learned: </b>
  
-There are a number of factors that go into beer cost at stadiums, but they may have more to do with local tastes than winning performance
+There are a number of factors that go into beer cost at stadiums, but they may have more to do with local tastes and markets than winning performance
 
 There may be a connection between attendance and beer costs, but there is a floor for beer prices. With more time we would look more into population, stadium capacity, and perhaps even availability of craft vs. domestic beers
 	
-Biggest challenge was normalizing data and cleaning it (no surprise there)
+The biggest challenge was normalizing data and cleaning it
 
 It helps to test affects of every change – sometimes edits made to one table impacted the connection to another
