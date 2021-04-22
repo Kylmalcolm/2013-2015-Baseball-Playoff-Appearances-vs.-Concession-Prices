@@ -2,6 +2,8 @@
 
 Copied from original repo: https://github.com/eerofeeva/return_of_the_Baseball_Madness which has the commit history attached.
 
+My main focus for this project was data clean up, creating graphs, and written analysis.
+
 ![image](https://user-images.githubusercontent.com/70925750/112413035-8287ae80-8ced-11eb-97e0-a6bb8ed91ef2.png)
 
 <b> List of files:</b>
